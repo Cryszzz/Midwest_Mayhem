@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/cryst/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"C:/Users/cryst/OneDrive/Documents/Unreal Projects/MyProject2/Content/menu/pauseScene.uasset",
+				"C:/Users/cryst/OneDrive/Documents/Unreal Projects/MyProject2/Content/game/mainGame.umap",
+				"C:/Users/cryst/OneDrive/Documents/Unreal Projects/MyProject2/Content/game/mainMenu.umap",
+				"C:/Users/cryst/OneDrive/Documents/Unreal Projects/MyProject2/Content/menu/mainMenu.uasset",
+				"C:/Users/cryst/OneDrive/Documents/Unreal Projects/MyProject2/Content/menu/inGameUI.uasset",
+				"C:/Users/cryst/OneDrive/Documents/Unreal Projects/MyProject2/Content/menu/loseUI.uasset"
+			]
+		}
+	]
+}
