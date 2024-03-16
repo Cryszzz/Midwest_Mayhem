@@ -10160,3 +10160,24 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.16-16.39.46:605][612]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2024.03.16-16.39.46:606][612]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_RoadGenSample_MainGrid_L0_X-1_Y0_InstanceOf_/Game/__ExternalActors__/RoadGen/RoadGenSample/D/OY/VYKH9X7AB11QV4U5QAXLAE' is in a memory-only mount point.
 [2024.03.16-16.39.46:607][612]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.16-16.41.18:019][673]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.16-16.41.18:019][673]LogWorld: BeginTearingDown for /Game/RoadGen/UEDPIE_0_RoadGenSample
+[2024.03.16-16.41.18:032][673]LogWorld: UWorld::CleanupWorld for RoadGenSample, bSessionEnded=true, bCleanupResources=true
+[2024.03.16-16.41.18:032][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.16-16.41.18:032][673]LogContentBundle: [RoadGenSample(Standalone)] Deleting container.
+[2024.03.16-16.41.18:036][673]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.16-16.41.18:041][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.16-16.41.18:060][673]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.16-16.41.18:060][673]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 42
+[2024.03.16-16.41.18:060][673]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2024.03.16-16.41.18:062][673]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2024.03.16-16.41.18:082][673]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.03.16-16.41.18:095][673]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.16-16.41.18:104][674]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2024.03.16-16.41.18:111][674]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.16-16.41.18:622][705]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.16-16.41.18:739][705]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RoadGen/RoadGenSample/6/K8/MXNCFYNUF9ETSTS14ETTPL
+[2024.03.16-16.41.18:739][705]LogSavePackage: Moving '../../../../../../Users/cryst/Documents/Upenn/CIS5680/Test/Saved/MXNCFYNUF9ETSTS14ETTPL655EEAFD4739A4967E78B29B23F79082.tmp' to '../../../../../../Users/cryst/Documents/Upenn/CIS5680/Test/Content/__ExternalActors__/RoadGen/RoadGenSample/6/K8/MXNCFYNUF9ETSTS14ETTPL.uasset'
+[2024.03.16-16.41.18:754][705]LogFileHelpers: InternalPromptForCheckoutAndSave took 131 ms (total: 7.63 sec)
+[2024.03.16-16.41.18:759][705]AssetCheck: New page: Asset Save: RoadInstance_C_UAID_749779BDE6D8F6E201_1291742115
+[2024.03.16-16.41.18:759][705]LogContentValidation: Display: Validating /Game/RoadGen/RoadInstance.RoadInstance_C /Game/RoadGen/RoadGenSample.RoadGenSample:PersistentLevel.RoadInstance_C_UAID_749779BDE6D8F6E201_1291742115
