@@ -10077,3 +10077,1094 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.18-16.07.43:153][627]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Gameplay/Global.Global
 [2024.03.18-16.07.43:960][672]BlueprintLog: New page: Compile Global
 [2024.03.18-16.07.44:029][672]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.03.18-16.12.20:372][ 79]LogHttp: Warning: 0000071DF4F76400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64CC0640-4B14-29D8-BAA7-CFB91B6115E7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=e77913444c60ac2867487ea227aec197%7Cc4317d4b1cea4f28802e3a8de0be4f65%7Cc786482b-db54-4f3c-834e-467a3f8abe43&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.18-16.12.20:373][ 79]LogHttp: Warning: 0000071DF4F76400: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.18-16.12.20:373][ 79]LogHttp: Warning: 0000071DF4F76400: libcurl info message cache 0 (Found bundle for host: 0x71dde960570 [serially])
+[2024.03.18-16.12.20:373][ 79]LogHttp: Warning: 0000071DF4F76400: libcurl info message cache 1 (Re-using existing connection #18 with host datarouter.ol.epicgames.com)
+[2024.03.18-16.12.20:373][ 79]LogHttp: Warning: 0000071DF4F76400: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (18.205.13.153) port 443 (#18))
+[2024.03.18-16.12.20:373][ 79]LogHttp: Warning: 0000071DF4F76400: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.18-16.12.20:373][ 79]LogHttp: Warning: 0000071DF4F76400: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.18-16.12.20:373][ 79]LogHttp: Warning: 0000071DF4F76400: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.18-16.12.20:373][ 79]LogHttp: Warning: 0000071DF4F76400: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.18-16.12.20:373][ 79]LogHttp: Warning: 0000071DF4F76400: libcurl info message cache 7 (Closing connection 18)
+[2024.03.18-16.12.20:373][ 79]LogHttp: Warning: 0000071DF4F76400: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.18-16.12.20:373][ 79]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64CC0640-4B14-29D8-BAA7-CFB91B6115E7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=e77913444c60ac2867487ea227aec197%7Cc4317d4b1cea4f28802e3a8de0be4f65%7Cc786482b-db54-4f3c-834e-467a3f8abe43&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.18-16.12.22:416][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.03.18-16.12.22:420][ 84]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Gameplay/MainLevel/6/FY/WVF12XPJY3HQXJ4G25FY1C_Auto4
+[2024.03.18-16.12.22:420][ 84]LogSavePackage: Moving '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Saved/WVF12XPJY3HQXJ4G25FY1C_Auto4DAC5EAE54C63430AFE21F5A07E7DD566.tmp' to '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Saved/Autosaves/Game/__ExternalActors__/Gameplay/MainLevel/6/FY/WVF12XPJY3HQXJ4G25FY1C_Auto4.uasset'
+[2024.03.18-16.12.22:422][ 84]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Gameplay/MainLevel/B/1V/LMEQJJIK37LTLWT9Y4PHHW_Auto4
+[2024.03.18-16.12.22:422][ 84]LogSavePackage: Moving '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Saved/LMEQJJIK37LTLWT9Y4PHHW_Auto409B1BE9D45A4D62A368F438740EB8F38.tmp' to '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Saved/Autosaves/Game/__ExternalActors__/Gameplay/MainLevel/B/1V/LMEQJJIK37LTLWT9Y4PHHW_Auto4.uasset'
+[2024.03.18-16.12.22:424][ 84]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Gameplay/MainLevel/B/L6/63FP7OUW3RLNMDUNZ4PW8Q_Auto4
+[2024.03.18-16.12.22:425][ 84]LogSavePackage: Moving '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Saved/63FP7OUW3RLNMDUNZ4PW8Q_Auto4D6D658E04A5A2DAE4AC1E885169D15B3.tmp' to '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Saved/Autosaves/Game/__ExternalActors__/Gameplay/MainLevel/B/L6/63FP7OUW3RLNMDUNZ4PW8Q_Auto4.uasset'
+[2024.03.18-16.12.22:427][ 84]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Gameplay/MainLevel/D/0N/NMXCFQU9V2PER6IL7RXN1L_Auto4
+[2024.03.18-16.12.22:428][ 84]LogSavePackage: Moving '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Saved/NMXCFQU9V2PER6IL7RXN1L_Auto44C85C9064DD2012569D49B8F8C21802E.tmp' to '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Saved/Autosaves/Game/__ExternalActors__/Gameplay/MainLevel/D/0N/NMXCFQU9V2PER6IL7RXN1L_Auto4.uasset'
+[2024.03.18-16.12.22:429][ 84]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Gameplay/MainLevel' took 0.037
+[2024.03.18-16.12.22:429][ 84]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.037
+[2024.03.18-16.13.52:607][480]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/menu/loseUI.loseUI
+[2024.03.18-16.13.52:607][480]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.18-16.13.52:607][480]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.18-16.13.52:633][480]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.18-16.13.52:633][480]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.18-16.14.01:125][924]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2024.03.18-16.14.01:126][924]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.18-16.14.01:131][924]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2024.03.18-16.14.01:131][924]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.18-16.17.53:946][204]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/menu/loseUI.loseUI
+[2024.03.18-16.17.53:946][204]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.18-16.17.53:946][204]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.18-16.17.53:962][204]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.18-16.17.53:962][204]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.18-16.18.25:101][849]LogDerivedDataCache: C:/Users/raiab/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:12.153 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 6577 files in 8442 folders with total size 3570 MiB.
+[2024.03.18-16.20.20:990][472]LogHttp: Warning: 0000071E60569100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64CC0640-4B14-29D8-BAA7-CFB91B6115E7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=e77913444c60ac2867487ea227aec197%7Cc4317d4b1cea4f28802e3a8de0be4f65%7Cc786482b-db54-4f3c-834e-467a3f8abe43&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.18-16.20.20:990][472]LogHttp: Warning: 0000071E60569100: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.18-16.20.20:990][472]LogHttp: Warning: 0000071E60569100: libcurl info message cache 0 (Found bundle for host: 0x71dde960db0 [serially])
+[2024.03.18-16.20.20:990][472]LogHttp: Warning: 0000071E60569100: libcurl info message cache 1 (Re-using existing connection #21 with host datarouter.ol.epicgames.com)
+[2024.03.18-16.20.20:990][472]LogHttp: Warning: 0000071E60569100: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (35.174.127.193) port 443 (#21))
+[2024.03.18-16.20.20:990][472]LogHttp: Warning: 0000071E60569100: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.18-16.20.20:990][472]LogHttp: Warning: 0000071E60569100: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.18-16.20.20:990][472]LogHttp: Warning: 0000071E60569100: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.18-16.20.20:990][472]LogHttp: Warning: 0000071E60569100: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.18-16.20.20:990][472]LogHttp: Warning: 0000071E60569100: libcurl info message cache 7 (Closing connection 21)
+[2024.03.18-16.20.20:990][472]LogHttp: Warning: 0000071E60569100: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.18-16.20.20:990][472]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64CC0640-4B14-29D8-BAA7-CFB91B6115E7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=e77913444c60ac2867487ea227aec197%7Cc4317d4b1cea4f28802e3a8de0be4f65%7Cc786482b-db54-4f3c-834e-467a3f8abe43&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.18-16.20.54:151][683]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.18-16.20.54:233][683]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Gameplay/MainLevel/6/FY/WVF12XPJY3HQXJ4G25FY1C
+[2024.03.18-16.20.54:234][683]LogSavePackage: Moving '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Saved/WVF12XPJY3HQXJ4G25FY1CD342959741F9FAB54F2CB0BA30526059.tmp' to '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Content/__ExternalActors__/Gameplay/MainLevel/6/FY/WVF12XPJY3HQXJ4G25FY1C.uasset'
+[2024.03.18-16.20.54:236][683]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Gameplay/MainLevel/B/1V/LMEQJJIK37LTLWT9Y4PHHW
+[2024.03.18-16.20.54:236][683]LogSavePackage: Moving '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Saved/LMEQJJIK37LTLWT9Y4PHHWD790FA924C63CCC7B70CDFBDB5E5F374.tmp' to '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Content/__ExternalActors__/Gameplay/MainLevel/B/1V/LMEQJJIK37LTLWT9Y4PHHW.uasset'
+[2024.03.18-16.20.54:238][683]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Gameplay/MainLevel/B/L6/63FP7OUW3RLNMDUNZ4PW8Q
+[2024.03.18-16.20.54:239][683]LogSavePackage: Moving '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Saved/63FP7OUW3RLNMDUNZ4PW8Q36D80C0442EED7F12245EDAE333A8BD8.tmp' to '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Content/__ExternalActors__/Gameplay/MainLevel/B/L6/63FP7OUW3RLNMDUNZ4PW8Q.uasset'
+[2024.03.18-16.20.54:241][683]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Gameplay/MainLevel/D/0N/NMXCFQU9V2PER6IL7RXN1L
+[2024.03.18-16.20.54:241][683]LogSavePackage: Moving '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Saved/NMXCFQU9V2PER6IL7RXN1L4487D8D74DD8ADAE29FB80AD1DF82337.tmp' to '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Content/__ExternalActors__/Gameplay/MainLevel/D/0N/NMXCFQU9V2PER6IL7RXN1L.uasset'
+[2024.03.18-16.20.54:252][683]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 3.79 sec)
+[2024.03.18-16.20.54:261][683]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.18-16.20.54:261][683]LogContentValidation: Display: Validating /Script/Engine.SpotLight /Game/Gameplay/MainLevel.MainLevel:PersistentLevel.SpotLight_UAID_18C04D32C2B8FAE201_2107551820
+[2024.03.18-16.20.54:261][683]LogContentValidation: Display: Validating /Script/Engine.SpotLight /Game/Gameplay/MainLevel.MainLevel:PersistentLevel.SpotLight_UAID_18C04D32C2B8FAE201_1726219819
+[2024.03.18-16.20.54:261][683]LogContentValidation: Display: Validating /Game/Gameplay/CarBP.CarBP_C /Game/Gameplay/MainLevel.MainLevel:PersistentLevel.CarBP_C_UAID_18C04D32C2B807E201_1300118053
+[2024.03.18-16.20.54:261][683]LogContentValidation: Display: Validating /Game/Gameplay/Global.Global_C /Game/Gameplay/MainLevel.MainLevel:PersistentLevel.Global_C_UAID_18C04D32C2B894E301_1265625921
+[2024.03.18-16.21.06:711][367]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Obstacles/Deer.Deer_C
+[2024.03.18-16.21.06:711][367]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Obstacles/Deer.Deer_C
+[2024.03.18-16.21.06:712][367]LogActorFactory: Actor Factory spawned Blueprint /Game/Obstacles/Deer.Deer as actor: Deer_C /Game/Gameplay/MainLevel.MainLevel:PersistentLevel.Deer_C_0
+[2024.03.18-16.21.06:713][367]LogActorFactory: Actor Factory spawned Blueprint /Game/Obstacles/Deer.Deer as actor: Deer_C /Game/Gameplay/MainLevel.MainLevel:PersistentLevel.Deer_C_0
+[2024.03.18-16.21.07:100][394]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Obstacles/Deer.Deer_C
+[2024.03.18-16.21.07:100][394]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Obstacles/Deer.Deer_C
+[2024.03.18-16.21.07:102][394]LogActorFactory: Actor Factory spawned Blueprint /Game/Obstacles/Deer.Deer as actor: Deer_C /Game/Gameplay/MainLevel.MainLevel:PersistentLevel.Deer_C_UAID_18C04D32C2B896E301_1650514274
+[2024.03.18-16.21.07:103][394]LogActorFactory: Actor Factory spawned Blueprint /Game/Obstacles/Deer.Deer as actor: Deer_C /Game/Gameplay/MainLevel.MainLevel:PersistentLevel.Deer_C_UAID_18C04D32C2B896E301_1650514274
+[2024.03.18-16.21.11:389][666]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.21.28:951][606]Cmd: DELETE
+[2024.03.18-16.21.28:951][606]Cmd: ACTOR DELETE
+[2024.03.18-16.21.28:953][606]LogEditorActor: Deleted Actor: Deer_C
+[2024.03.18-16.21.28:980][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.03.18-16.21.28:982][606]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2024.03.18-16.21.29:744][649]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.18-16.21.29:853][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.03.18-16.21.29:876][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.03.18-16.21.29:897][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.03.18-16.21.29:911][649]LogFileHelpers: InternalPromptForCheckoutAndSave took 166 ms (total: 3.96 sec)
+[2024.03.18-16.21.38:268][ 83]LogViewport: Scene viewport resized to 1141x685, mode Windowed.
+[2024.03.18-16.21.47:303][475]LogEditorTransaction: Undo Set Vector Property
+[2024.03.18-16.21.47:445][475]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.21.56:077][991]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.18-16.21.56:177][991]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gameplay/CarBP" FILE="../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Content/Gameplay/CarBP.uasset" SILENT=true
+[2024.03.18-16.21.56:192][991]LogSavePackage: Moving output files for package: /Game/Gameplay/CarBP
+[2024.03.18-16.21.56:192][991]LogSavePackage: Moving '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Saved/CarBP29B167FF484C4DB60A46569DE8ECC901.tmp' to '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Content/Gameplay/CarBP.uasset'
+[2024.03.18-16.21.56:202][991]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 4.08 sec)
+[2024.03.18-16.21.56:208][991]AssetCheck: New page: Asset Save: CarBP
+[2024.03.18-16.21.56:208][991]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Gameplay/CarBP.CarBP
+[2024.03.18-16.22.01:482][258]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.18-16.22.01:575][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gameplay/CarBP" FILE="../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Content/Gameplay/CarBP.uasset" SILENT=true
+[2024.03.18-16.22.01:591][258]LogSavePackage: Moving output files for package: /Game/Gameplay/CarBP
+[2024.03.18-16.22.01:591][258]LogSavePackage: Moving '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Saved/CarBPD1A289F34414E2342A6AEEBADFB6621C.tmp' to '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Content/Gameplay/CarBP.uasset'
+[2024.03.18-16.22.01:602][258]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 4.20 sec)
+[2024.03.18-16.22.01:608][258]AssetCheck: New page: Asset Save: CarBP
+[2024.03.18-16.22.01:608][258]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Gameplay/CarBP.CarBP
+[2024.03.18-16.22.02:460][299]BlueprintLog: New page: Compile CarBP
+[2024.03.18-16.22.02:518][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.03.18-16.22.03:089][320]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.18-16.22.03:216][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gameplay/CarBP" FILE="../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Content/Gameplay/CarBP.uasset" SILENT=true
+[2024.03.18-16.22.03:232][320]LogSavePackage: Moving output files for package: /Game/Gameplay/CarBP
+[2024.03.18-16.22.03:232][320]LogSavePackage: Moving '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Saved/CarBP111EC3FD43D2712BC0EF118EE51C8084.tmp' to '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Content/Gameplay/CarBP.uasset'
+[2024.03.18-16.22.03:241][320]LogFileHelpers: InternalPromptForCheckoutAndSave took 151 ms (total: 4.35 sec)
+[2024.03.18-16.22.03:247][320]AssetCheck: New page: Asset Save: CarBP
+[2024.03.18-16.22.03:247][320]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Gameplay/CarBP.CarBP
+[2024.03.18-16.22.04:196][363]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.18-16.22.04:203][363]LogContentBundle: [MainLevel(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.18-16.22.04:205][363]LogWorldPartition: Display: GenerateStreaming started...
+[2024.03.18-16.22.04:205][363]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.03.18-16.22.04:205][363]LogWorldPartition: Display: GetPartitionedActors took 8 us (total: 107 us)
+[2024.03.18-16.22.04:205][363]LogWorldPartition: Display: GenerateStreaming took 114 us (total: 1 ms)
+[2024.03.18-16.22.04:207][363]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.18-16.22.04:207][363]PIE: New page: PIE session: MainLevel (Mar 18, 2024, 8:22:04 AM)
+[2024.03.18-16.22.04:207][363]LogPlayLevel: Creating play world package: /Game/Gameplay/UEDPIE_0_MainLevel
+[2024.03.18-16.22.04:209][363]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002368s)
+[2024.03.18-16.22.04:209][363]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Gameplay/MainLevel.MainLevel to /Game/Gameplay/UEDPIE_0_MainLevel.MainLevel (0.002396s)
+[2024.03.18-16.22.04:209][363]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.18-16.22.04:209][363]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.18-16.22.04:210][363]LogAIModule: Creating AISystem for world MainLevel
+[2024.03.18-16.22.04:210][363]LogWorldPartition: ULevel::OnLevelLoaded(MainLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.18-16.22.04:210][363]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.18-16.22.04:210][363]LogWorldPartition: UWorldPartition::Initialize(Asset=MainLevel, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.03.18-16.22.04:211][363]LogContentBundle: [MainLevel(Standalone)] Creating new contrainer.
+[2024.03.18-16.22.04:211][363]LogWorldPartition: Display: WorldPartition initialize took 592 us (total: 540 ms)
+[2024.03.18-16.22.04:211][363]LogPlayLevel: PIE: World Init took: (0.001476s)
+[2024.03.18-16.22.04:229][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.03.18-16.22.04:231][363]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.03.18-16.22.04:231][363]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.18-16.22.04:231][363]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.18-16.22.04:231][363]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.18-16.22.04:231][363]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.18-16.22.04:231][363]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.18-16.22.04:231][363]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.03.18-16.22.04:231][363]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.18-16.22.04:231][363]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.18-16.22.04:231][363]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.18-16.22.04:231][363]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.18-16.22.04:231][363]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.18-16.22.04:233][363]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.18-16.22.04:260][363]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.18-16.22.04:261][363]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.18-16.22.04:261][363]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.18-16.22.04:261][363]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.18-16.22.04:262][363]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.03.18-16.22.04:262][363]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.03.18-16.22.04:263][363]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.03.18-16.22.04:263][363]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.03.18-16.22.04:263][363]LogInit: FAudioDevice initialized with ID 11.
+[2024.03.18-16.22.04:263][363]LogAudio: Display: Audio Device (ID: 11) registered with world 'MainLevel'.
+[2024.03.18-16.22.04:263][363]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.03.18-16.22.04:266][363]LogLoad: Game class is 'GameModeBase'
+[2024.03.18-16.22.04:266][363]LogWorld: Bringing World /Game/Gameplay/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2024.03.18-12.22.04
+[2024.03.18-16.22.04:266][363]LogWorld: Bringing up level for play took: 0.000603
+[2024.03.18-16.22.04:268][363]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2024.03.18-16.22.04:269][363]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(1), CellsToLoad(0), CellsToUnload(0)
+[2024.03.18-16.22.04:269][363]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=570.000 Y=0.000 Z=83.000,P=-0.000000 Y=-90.000000 R=0.000000
+[2024.03.18-16.22.04:269][363]LogStreaming: Display: FlushAsyncLoading(-1): 4 QueuedPackages, 0 AsyncPackages
+[2024.03.18-16.22.04:276][363]LogScript: Warning: Script Msg: Global_C_UAID_18C04D32C2B894E301_1265625921 SpawnObstacle_Event SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2024.03.18-16.22.04:276][363]LogScript: Warning: Script Msg called by: Global_C /Memory/UEDPIE_0_MainLevel_MainGrid_L0_X0_Y0.MainLevel:PersistentLevel.Global_C_UAID_18C04D32C2B894E301_1265625921
+[2024.03.18-16.22.04:276][363]PIE: Server logged in
+[2024.03.18-16.22.04:277][363]PIE: Play in editor total start time 0.073 seconds.
+[2024.03.18-16.22.04:323][363]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.04:323][363]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.04:323][363]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.04:324][363]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_MainLevel_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Gameplay/MainLevel/5/6T/DVHFYDNGRNRQUBZUVG6UOT' is in a memory-only mount point.
+[2024.03.18-16.22.04:324][363]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.04:324][363]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.04:325][363]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.04:325][363]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.04:326][363]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.04:326][363]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.04:326][363]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.04:327][363]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_MainLevel_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Gameplay/MainLevel/6/FY/WVF12XPJY3HQXJ4G25FY1C' is in a memory-only mount point.
+[2024.03.18-16.22.04:327][363]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.04:329][363]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.04:329][363]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.04:424][364]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.04:425][364]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.04:425][364]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.04:426][364]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_MainLevel_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Gameplay/MainLevel/5/6T/DVHFYDNGRNRQUBZUVG6UOT' is in a memory-only mount point.
+[2024.03.18-16.22.04:426][364]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.04:426][364]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.04:427][364]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.04:427][364]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.04:427][364]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.04:428][364]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.04:428][364]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.04:428][364]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_MainLevel_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Gameplay/MainLevel/6/FY/WVF12XPJY3HQXJ4G25FY1C' is in a memory-only mount point.
+[2024.03.18-16.22.04:429][364]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.04:430][364]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.04:431][364]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.10:367][643]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.16:420][927]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.17:440][975]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_MainLevel_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Gameplay/MainLevel/6/FY/WVF12XPJY3HQXJ4G25FY1C' is in a memory-only mount point.
+[2024.03.18-16.22.23:519][260]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.31:611][637]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.35:596][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.18-16.22.35:596][822]LogWorld: BeginTearingDown for /Game/Gameplay/UEDPIE_0_MainLevel
+[2024.03.18-16.22.35:596][822]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2024.03.18-16.22.35:596][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.18-16.22.35:597][822]LogContentBundle: [MainLevel(Standalone)] Deleting container.
+[2024.03.18-16.22.35:601][822]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.18-16.22.35:606][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.18-16.22.35:629][822]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.18-16.22.35:629][822]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.03.18-16.22.35:629][822]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.03.18-16.22.35:631][822]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.03.18-16.22.35:634][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.18-16.22.35:636][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.03.18-16.22.35:658][822]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.35:698][823]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2024.03.18-16.22.35:712][823]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.43:477][154]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.18-16.22.43:483][154]LogContentBundle: [MainLevel(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.18-16.22.43:484][154]LogWorldPartition: Display: GenerateStreaming started...
+[2024.03.18-16.22.43:484][154]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.03.18-16.22.43:484][154]LogWorldPartition: Display: GetPartitionedActors took 7 us (total: 115 us)
+[2024.03.18-16.22.43:484][154]LogWorldPartition: Display: GenerateStreaming took 96 us (total: 1 ms)
+[2024.03.18-16.22.43:485][154]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.18-16.22.43:485][154]PIE: New page: PIE session: MainLevel (Mar 18, 2024, 8:22:43 AM)
+[2024.03.18-16.22.43:485][154]LogPlayLevel: Creating play world package: /Game/Gameplay/UEDPIE_0_MainLevel
+[2024.03.18-16.22.43:487][154]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002462s)
+[2024.03.18-16.22.43:487][154]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Gameplay/MainLevel.MainLevel to /Game/Gameplay/UEDPIE_0_MainLevel.MainLevel (0.002487s)
+[2024.03.18-16.22.43:487][154]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.18-16.22.43:487][154]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.18-16.22.43:488][154]LogAIModule: Creating AISystem for world MainLevel
+[2024.03.18-16.22.43:488][154]LogWorldPartition: ULevel::OnLevelLoaded(MainLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.18-16.22.43:488][154]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.18-16.22.43:488][154]LogWorldPartition: UWorldPartition::Initialize(Asset=MainLevel, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.03.18-16.22.43:489][154]LogContentBundle: [MainLevel(Standalone)] Creating new contrainer.
+[2024.03.18-16.22.43:489][154]LogWorldPartition: Display: WorldPartition initialize took 655 us (total: 541 ms)
+[2024.03.18-16.22.43:489][154]LogPlayLevel: PIE: World Init took: (0.001630s)
+[2024.03.18-16.22.43:509][154]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.03.18-16.22.43:511][154]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.03.18-16.22.43:511][154]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.18-16.22.43:511][154]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.18-16.22.43:511][154]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.18-16.22.43:511][154]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.18-16.22.43:511][154]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.18-16.22.43:511][154]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.03.18-16.22.43:511][154]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.18-16.22.43:511][154]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.18-16.22.43:511][154]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.18-16.22.43:511][154]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.18-16.22.43:511][154]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.18-16.22.43:513][154]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.18-16.22.43:540][154]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.18-16.22.43:540][154]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.18-16.22.43:540][154]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.18-16.22.43:540][154]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.18-16.22.43:540][154]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.03.18-16.22.43:540][154]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.03.18-16.22.43:542][154]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.03.18-16.22.43:542][154]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.03.18-16.22.43:542][154]LogInit: FAudioDevice initialized with ID 12.
+[2024.03.18-16.22.43:542][154]LogAudio: Display: Audio Device (ID: 12) registered with world 'MainLevel'.
+[2024.03.18-16.22.43:542][154]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2024.03.18-16.22.43:546][154]LogLoad: Game class is 'GameModeBase'
+[2024.03.18-16.22.43:546][154]LogWorld: Bringing World /Game/Gameplay/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2024.03.18-12.22.43
+[2024.03.18-16.22.43:547][154]LogWorld: Bringing up level for play took: 0.000596
+[2024.03.18-16.22.43:548][154]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2024.03.18-16.22.43:549][154]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(1), CellsToLoad(0), CellsToUnload(0)
+[2024.03.18-16.22.43:549][154]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=570.000 Y=0.000 Z=93.000,P=-0.000000 Y=-90.000000 R=0.000000
+[2024.03.18-16.22.43:549][154]LogStreaming: Display: FlushAsyncLoading(-1): 4 QueuedPackages, 0 AsyncPackages
+[2024.03.18-16.22.43:555][154]LogScript: Warning: Script Msg: Global_C_UAID_18C04D32C2B894E301_1265625921 SpawnObstacle_Event SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2024.03.18-16.22.43:555][154]LogScript: Warning: Script Msg called by: Global_C /Memory/UEDPIE_0_MainLevel_MainGrid_L0_X0_Y0.MainLevel:PersistentLevel.Global_C_UAID_18C04D32C2B894E301_1265625921
+[2024.03.18-16.22.43:555][154]PIE: Server logged in
+[2024.03.18-16.22.43:555][154]PIE: Play in editor total start time 0.072 seconds.
+[2024.03.18-16.22.43:600][154]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.43:601][154]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.43:601][154]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.43:602][154]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_MainLevel_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Gameplay/MainLevel/5/6T/DVHFYDNGRNRQUBZUVG6UOT' is in a memory-only mount point.
+[2024.03.18-16.22.43:602][154]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.43:602][154]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.43:603][154]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.43:603][154]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.43:603][154]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.43:604][154]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.43:604][154]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.43:604][154]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_MainLevel_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Gameplay/MainLevel/6/FY/WVF12XPJY3HQXJ4G25FY1C' is in a memory-only mount point.
+[2024.03.18-16.22.43:605][154]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.43:606][154]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.43:607][154]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.43:620][155]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.43:620][155]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.43:621][155]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.43:621][155]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_MainLevel_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Gameplay/MainLevel/5/6T/DVHFYDNGRNRQUBZUVG6UOT' is in a memory-only mount point.
+[2024.03.18-16.22.43:622][155]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.43:622][155]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.43:622][155]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.43:623][155]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.43:623][155]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.43:623][155]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.43:623][155]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.43:623][155]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_MainLevel_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Gameplay/MainLevel/6/FY/WVF12XPJY3HQXJ4G25FY1C' is in a memory-only mount point.
+[2024.03.18-16.22.43:624][155]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.43:625][155]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.43:626][155]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.48:085][361]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.18-16.22.48:086][361]LogWorld: BeginTearingDown for /Game/Gameplay/UEDPIE_0_MainLevel
+[2024.03.18-16.22.48:086][361]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2024.03.18-16.22.48:086][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.18-16.22.48:086][361]LogContentBundle: [MainLevel(Standalone)] Deleting container.
+[2024.03.18-16.22.48:090][361]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.18-16.22.48:095][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.18-16.22.48:118][361]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.18-16.22.48:118][361]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.03.18-16.22.48:118][361]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.03.18-16.22.48:120][361]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.03.18-16.22.48:124][361]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.18-16.22.48:126][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.03.18-16.22.48:146][361]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.48:185][362]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2024.03.18-16.22.48:200][362]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.54:133][606]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.18-16.22.54:237][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.03.18-16.22.54:260][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.03.18-16.22.54:280][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.03.18-16.22.54:282][606]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Gameplay/MainLevel/B/1V/LMEQJJIK37LTLWT9Y4PHHW
+[2024.03.18-16.22.54:282][606]LogSavePackage: Moving '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Saved/LMEQJJIK37LTLWT9Y4PHHWA99BDE024EF348C19D0544AC0356EBA3.tmp' to '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Content/__ExternalActors__/Gameplay/MainLevel/B/1V/LMEQJJIK37LTLWT9Y4PHHW.uasset'
+[2024.03.18-16.22.54:284][606]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Gameplay/MainLevel/B/L6/63FP7OUW3RLNMDUNZ4PW8Q
+[2024.03.18-16.22.54:284][606]LogSavePackage: Moving '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Saved/63FP7OUW3RLNMDUNZ4PW8QC7666D2D4226E91925E1948AE6E6D93A.tmp' to '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Content/__ExternalActors__/Gameplay/MainLevel/B/L6/63FP7OUW3RLNMDUNZ4PW8Q.uasset'
+[2024.03.18-16.22.54:286][606]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Gameplay/MainLevel/D/0N/NMXCFQU9V2PER6IL7RXN1L
+[2024.03.18-16.22.54:287][606]LogSavePackage: Moving '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Saved/NMXCFQU9V2PER6IL7RXN1L649F9D57467B1F2D434F57B41FD4D6F5.tmp' to '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Content/__ExternalActors__/Gameplay/MainLevel/D/0N/NMXCFQU9V2PER6IL7RXN1L.uasset'
+[2024.03.18-16.22.54:300][606]LogFileHelpers: InternalPromptForCheckoutAndSave took 167 ms (total: 4.52 sec)
+[2024.03.18-16.22.54:307][606]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.18-16.22.54:307][606]LogContentValidation: Display: Validating /Script/Engine.SpotLight /Game/Gameplay/MainLevel.MainLevel:PersistentLevel.SpotLight_UAID_18C04D32C2B8FAE201_2107551820
+[2024.03.18-16.22.54:307][606]LogContentValidation: Display: Validating /Script/Engine.SpotLight /Game/Gameplay/MainLevel.MainLevel:PersistentLevel.SpotLight_UAID_18C04D32C2B8FAE201_1726219819
+[2024.03.18-16.22.54:307][606]LogContentValidation: Display: Validating /Game/Gameplay/CarBP.CarBP_C /Game/Gameplay/MainLevel.MainLevel:PersistentLevel.CarBP_C_UAID_18C04D32C2B807E201_1300118053
+[2024.03.18-16.22.55:794][670]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.18-16.22.55:904][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.03.18-16.22.55:926][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.03.18-16.22.55:947][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.03.18-16.22.55:949][670]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Gameplay/MainLevel/B/1V/LMEQJJIK37LTLWT9Y4PHHW
+[2024.03.18-16.22.55:949][670]LogSavePackage: Moving '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Saved/LMEQJJIK37LTLWT9Y4PHHW73FA9053446D6D88293BCB86E15F5CFE.tmp' to '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Content/__ExternalActors__/Gameplay/MainLevel/B/1V/LMEQJJIK37LTLWT9Y4PHHW.uasset'
+[2024.03.18-16.22.55:951][670]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Gameplay/MainLevel/B/L6/63FP7OUW3RLNMDUNZ4PW8Q
+[2024.03.18-16.22.55:952][670]LogSavePackage: Moving '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Saved/63FP7OUW3RLNMDUNZ4PW8Q0D4BD4D64CD761BDC4BE0A8A42939308.tmp' to '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Content/__ExternalActors__/Gameplay/MainLevel/B/L6/63FP7OUW3RLNMDUNZ4PW8Q.uasset'
+[2024.03.18-16.22.55:954][670]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Gameplay/MainLevel/D/0N/NMXCFQU9V2PER6IL7RXN1L
+[2024.03.18-16.22.55:954][670]LogSavePackage: Moving '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Saved/NMXCFQU9V2PER6IL7RXN1L86700C4240E6CEBE4ADBF486E0682CB8.tmp' to '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Content/__ExternalActors__/Gameplay/MainLevel/D/0N/NMXCFQU9V2PER6IL7RXN1L.uasset'
+[2024.03.18-16.22.55:964][670]LogFileHelpers: InternalPromptForCheckoutAndSave took 169 ms (total: 4.69 sec)
+[2024.03.18-16.22.55:971][670]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.18-16.22.55:971][670]LogContentValidation: Display: Validating /Script/Engine.SpotLight /Game/Gameplay/MainLevel.MainLevel:PersistentLevel.SpotLight_UAID_18C04D32C2B8FAE201_2107551820
+[2024.03.18-16.22.55:971][670]LogContentValidation: Display: Validating /Script/Engine.SpotLight /Game/Gameplay/MainLevel.MainLevel:PersistentLevel.SpotLight_UAID_18C04D32C2B8FAE201_1726219819
+[2024.03.18-16.22.55:971][670]LogContentValidation: Display: Validating /Game/Gameplay/CarBP.CarBP_C /Game/Gameplay/MainLevel.MainLevel:PersistentLevel.CarBP_C_UAID_18C04D32C2B807E201_1300118053
+[2024.03.18-16.22.56:670][702]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.18-16.22.56:677][702]LogContentBundle: [MainLevel(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.18-16.22.56:677][702]LogWorldPartition: Display: GenerateStreaming started...
+[2024.03.18-16.22.56:677][702]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.03.18-16.22.56:677][702]LogWorldPartition: Display: GetPartitionedActors took 7 us (total: 123 us)
+[2024.03.18-16.22.56:677][702]LogWorldPartition: Display: GenerateStreaming took 105 us (total: 1 ms)
+[2024.03.18-16.22.56:678][702]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.18-16.22.56:678][702]PIE: New page: PIE session: MainLevel (Mar 18, 2024, 8:22:56 AM)
+[2024.03.18-16.22.56:678][702]LogPlayLevel: Creating play world package: /Game/Gameplay/UEDPIE_0_MainLevel
+[2024.03.18-16.22.56:680][702]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002347s)
+[2024.03.18-16.22.56:680][702]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Gameplay/MainLevel.MainLevel to /Game/Gameplay/UEDPIE_0_MainLevel.MainLevel (0.002372s)
+[2024.03.18-16.22.56:680][702]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.18-16.22.56:680][702]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.18-16.22.56:681][702]LogAIModule: Creating AISystem for world MainLevel
+[2024.03.18-16.22.56:681][702]LogWorldPartition: ULevel::OnLevelLoaded(MainLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.18-16.22.56:681][702]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.18-16.22.56:681][702]LogWorldPartition: UWorldPartition::Initialize(Asset=MainLevel, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.03.18-16.22.56:682][702]LogContentBundle: [MainLevel(Standalone)] Creating new contrainer.
+[2024.03.18-16.22.56:682][702]LogWorldPartition: Display: WorldPartition initialize took 635 us (total: 541 ms)
+[2024.03.18-16.22.56:682][702]LogPlayLevel: PIE: World Init took: (0.001481s)
+[2024.03.18-16.22.56:700][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.03.18-16.22.56:701][702]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.03.18-16.22.56:701][702]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.18-16.22.56:701][702]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.18-16.22.56:701][702]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.18-16.22.56:701][702]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.18-16.22.56:701][702]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.18-16.22.56:701][702]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.03.18-16.22.56:701][702]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.18-16.22.56:701][702]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.18-16.22.56:701][702]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.18-16.22.56:701][702]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.18-16.22.56:701][702]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.18-16.22.56:704][702]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.18-16.22.56:729][702]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.18-16.22.56:730][702]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.18-16.22.56:730][702]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.18-16.22.56:730][702]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.18-16.22.56:731][702]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.03.18-16.22.56:731][702]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.03.18-16.22.56:732][702]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.03.18-16.22.56:732][702]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.03.18-16.22.56:732][702]LogInit: FAudioDevice initialized with ID 13.
+[2024.03.18-16.22.56:732][702]LogAudio: Display: Audio Device (ID: 13) registered with world 'MainLevel'.
+[2024.03.18-16.22.56:732][702]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.03.18-16.22.56:735][702]LogLoad: Game class is 'GameModeBase'
+[2024.03.18-16.22.56:735][702]LogWorld: Bringing World /Game/Gameplay/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2024.03.18-12.22.56
+[2024.03.18-16.22.56:735][702]LogWorld: Bringing up level for play took: 0.000617
+[2024.03.18-16.22.56:737][702]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2024.03.18-16.22.56:738][702]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(1), CellsToLoad(0), CellsToUnload(0)
+[2024.03.18-16.22.56:738][702]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=570.000 Y=0.000 Z=113.000,P=-0.000000 Y=-90.000000 R=0.000000
+[2024.03.18-16.22.56:738][702]LogStreaming: Display: FlushAsyncLoading(-1): 4 QueuedPackages, 0 AsyncPackages
+[2024.03.18-16.22.56:744][702]LogScript: Warning: Script Msg: Global_C_UAID_18C04D32C2B894E301_1265625921 SpawnObstacle_Event SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2024.03.18-16.22.56:745][702]LogScript: Warning: Script Msg called by: Global_C /Memory/UEDPIE_0_MainLevel_MainGrid_L0_X0_Y0.MainLevel:PersistentLevel.Global_C_UAID_18C04D32C2B894E301_1265625921
+[2024.03.18-16.22.56:745][702]PIE: Server logged in
+[2024.03.18-16.22.56:745][702]PIE: Play in editor total start time 0.069 seconds.
+[2024.03.18-16.22.56:790][702]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.56:790][702]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.56:790][702]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.56:791][702]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_MainLevel_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Gameplay/MainLevel/5/6T/DVHFYDNGRNRQUBZUVG6UOT' is in a memory-only mount point.
+[2024.03.18-16.22.56:791][702]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.56:792][702]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.56:792][702]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.56:792][702]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.56:792][702]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.56:794][702]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.56:794][702]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.56:794][702]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_MainLevel_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Gameplay/MainLevel/6/FY/WVF12XPJY3HQXJ4G25FY1C' is in a memory-only mount point.
+[2024.03.18-16.22.56:795][702]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.56:796][702]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.56:796][702]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.56:809][703]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.56:809][703]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.56:810][703]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.56:810][703]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_MainLevel_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Gameplay/MainLevel/5/6T/DVHFYDNGRNRQUBZUVG6UOT' is in a memory-only mount point.
+[2024.03.18-16.22.56:810][703]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.56:811][703]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.56:811][703]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.56:811][703]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.56:812][703]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.56:812][703]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.56:812][703]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.56:813][703]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_MainLevel_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Gameplay/MainLevel/6/FY/WVF12XPJY3HQXJ4G25FY1C' is in a memory-only mount point.
+[2024.03.18-16.22.56:813][703]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.56:814][703]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.22.56:814][703]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.00:721][882]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.18-16.23.00:722][882]LogWorld: BeginTearingDown for /Game/Gameplay/UEDPIE_0_MainLevel
+[2024.03.18-16.23.00:723][882]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2024.03.18-16.23.00:723][882]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.18-16.23.00:723][882]LogContentBundle: [MainLevel(Standalone)] Deleting container.
+[2024.03.18-16.23.00:736][882]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.18-16.23.00:744][882]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.18-16.23.00:766][882]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.18-16.23.00:766][882]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.03.18-16.23.00:767][882]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.03.18-16.23.00:768][882]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.03.18-16.23.00:773][882]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.03.18-16.23.00:801][882]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.00:840][883]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2024.03.18-16.23.00:859][883]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.06:526][114]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.18-16.23.06:533][114]LogContentBundle: [MainLevel(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.18-16.23.06:533][114]LogWorldPartition: Display: GenerateStreaming started...
+[2024.03.18-16.23.06:533][114]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.03.18-16.23.06:533][114]LogWorldPartition: Display: GetPartitionedActors took 7 us (total: 131 us)
+[2024.03.18-16.23.06:534][114]LogWorldPartition: Display: GenerateStreaming took 106 us (total: 1 ms)
+[2024.03.18-16.23.06:534][114]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.18-16.23.06:534][114]PIE: New page: PIE session: MainLevel (Mar 18, 2024, 8:23:06 AM)
+[2024.03.18-16.23.06:534][114]LogPlayLevel: Creating play world package: /Game/Gameplay/UEDPIE_0_MainLevel
+[2024.03.18-16.23.06:536][114]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002363s)
+[2024.03.18-16.23.06:536][114]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Gameplay/MainLevel.MainLevel to /Game/Gameplay/UEDPIE_0_MainLevel.MainLevel (0.002391s)
+[2024.03.18-16.23.06:536][114]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.18-16.23.06:536][114]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.18-16.23.06:537][114]LogAIModule: Creating AISystem for world MainLevel
+[2024.03.18-16.23.06:537][114]LogWorldPartition: ULevel::OnLevelLoaded(MainLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.18-16.23.06:537][114]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.18-16.23.06:537][114]LogWorldPartition: UWorldPartition::Initialize(Asset=MainLevel, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.03.18-16.23.06:538][114]LogContentBundle: [MainLevel(Standalone)] Creating new contrainer.
+[2024.03.18-16.23.06:538][114]LogWorldPartition: Display: WorldPartition initialize took 638 us (total: 542 ms)
+[2024.03.18-16.23.06:538][114]LogPlayLevel: PIE: World Init took: (0.001521s)
+[2024.03.18-16.23.06:558][114]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.03.18-16.23.06:560][114]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.03.18-16.23.06:560][114]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.18-16.23.06:560][114]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.18-16.23.06:560][114]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.18-16.23.06:560][114]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.18-16.23.06:560][114]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.18-16.23.06:560][114]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.03.18-16.23.06:560][114]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.18-16.23.06:560][114]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.18-16.23.06:561][114]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.18-16.23.06:561][114]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.18-16.23.06:561][114]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.18-16.23.06:562][114]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.18-16.23.06:588][114]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.18-16.23.06:588][114]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.18-16.23.06:588][114]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.18-16.23.06:588][114]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.18-16.23.06:588][114]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.03.18-16.23.06:588][114]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.03.18-16.23.06:590][114]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.03.18-16.23.06:590][114]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.03.18-16.23.06:590][114]LogInit: FAudioDevice initialized with ID 14.
+[2024.03.18-16.23.06:590][114]LogAudio: Display: Audio Device (ID: 14) registered with world 'MainLevel'.
+[2024.03.18-16.23.06:590][114]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2024.03.18-16.23.06:593][114]LogLoad: Game class is 'GameModeBase'
+[2024.03.18-16.23.06:594][114]LogWorld: Bringing World /Game/Gameplay/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2024.03.18-12.23.06
+[2024.03.18-16.23.06:594][114]LogWorld: Bringing up level for play took: 0.000575
+[2024.03.18-16.23.06:595][114]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2024.03.18-16.23.06:596][114]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(1), CellsToLoad(0), CellsToUnload(0)
+[2024.03.18-16.23.06:596][114]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=570.000 Y=0.000 Z=133.000,P=-0.000000 Y=-90.000000 R=0.000000
+[2024.03.18-16.23.06:596][114]LogStreaming: Display: FlushAsyncLoading(-1): 4 QueuedPackages, 0 AsyncPackages
+[2024.03.18-16.23.06:602][114]LogScript: Warning: Script Msg: Global_C_UAID_18C04D32C2B894E301_1265625921 SpawnObstacle_Event SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2024.03.18-16.23.06:602][114]LogScript: Warning: Script Msg called by: Global_C /Memory/UEDPIE_0_MainLevel_MainGrid_L0_X0_Y0.MainLevel:PersistentLevel.Global_C_UAID_18C04D32C2B894E301_1265625921
+[2024.03.18-16.23.06:602][114]PIE: Server logged in
+[2024.03.18-16.23.06:602][114]PIE: Play in editor total start time 0.071 seconds.
+[2024.03.18-16.23.06:648][114]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.06:648][114]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.06:649][114]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.06:649][114]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_MainLevel_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Gameplay/MainLevel/5/6T/DVHFYDNGRNRQUBZUVG6UOT' is in a memory-only mount point.
+[2024.03.18-16.23.06:649][114]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.06:650][114]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.06:650][114]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.06:651][114]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.06:651][114]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.06:651][114]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.06:652][114]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.06:652][114]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_MainLevel_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Gameplay/MainLevel/6/FY/WVF12XPJY3HQXJ4G25FY1C' is in a memory-only mount point.
+[2024.03.18-16.23.06:652][114]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.06:654][114]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.06:654][114]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.06:668][115]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.06:668][115]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.06:668][115]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.06:669][115]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_MainLevel_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Gameplay/MainLevel/5/6T/DVHFYDNGRNRQUBZUVG6UOT' is in a memory-only mount point.
+[2024.03.18-16.23.06:669][115]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.06:670][115]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.06:670][115]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.06:670][115]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.06:671][115]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.06:671][115]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.06:671][115]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.06:672][115]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_MainLevel_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Gameplay/MainLevel/6/FY/WVF12XPJY3HQXJ4G25FY1C' is in a memory-only mount point.
+[2024.03.18-16.23.06:672][115]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.06:674][115]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.06:674][115]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.12:706][395]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.19:746][725]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.21:759][819]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.28:847][150]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.39:952][668]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.42:958][809]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.46:008][952]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.47:002][999]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.47:782][ 36]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.03.18-16.23.47:782][ 36]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.03.18-16.23.47:782][ 36]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.03.18-16.23.56:653][458]LogNet: Browse: /Game/game/mainMenu
+[2024.03.18-16.23.56:653][458]LogLoad: LoadMap: /Game/game/mainMenu
+[2024.03.18-16.23.56:653][458]LogWorld: BeginTearingDown for /Game/Gameplay/UEDPIE_0_MainLevel
+[2024.03.18-16.23.56:655][458]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2024.03.18-16.23.56:655][458]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.18-16.23.56:655][458]LogContentBundle: [MainLevel(Standalone)] Deleting container.
+[2024.03.18-16.23.56:655][458]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2024.03.18-16.23.56:655][458]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.18-16.23.56:678][458]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.18-16.23.56:682][458]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2024.03.18-16.23.56:694][458]LogAudio: Display: Audio Device (ID: 14) registered with world 'mainMenu'.
+[2024.03.18-16.23.56:694][458]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.18-16.23.56:694][458]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.18-16.23.56:694][458]LogAIModule: Creating AISystem for world mainMenu
+[2024.03.18-16.23.56:694][458]LogPlayLevel: PIE: World Init took: (0.000769s)
+[2024.03.18-16.23.56:694][458]LogLoad: Game class is 'GameModeBase'
+[2024.03.18-16.23.56:695][458]LogWorld: Bringing World /Game/game/UEDPIE_0_mainMenu.mainMenu up for play (max tick rate 0) at 2024.03.18-12.23.56
+[2024.03.18-16.23.56:695][458]LogWorld: Bringing up level for play took: 0.000475
+[2024.03.18-16.23.56:695][458]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.03.18-16.23.56:697][458]LogLoad: Took 0.044005 seconds to LoadMap(/Game/game/mainMenu)
+[2024.03.18-16.23.56:707][458]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.56:708][458]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.56:708][458]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.56:708][458]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.56:709][458]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.56:709][458]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.56:710][458]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.56:710][458]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.56:710][458]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.56:711][458]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.56:711][458]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.56:730][459]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.56:730][459]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.56:731][459]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.56:731][459]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.56:732][459]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.56:732][459]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.56:732][459]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.56:733][459]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.56:733][459]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.56:734][459]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.56:734][459]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.57:580][538]LogNet: Browse: /Game/Gameplay/MainLevel
+[2024.03.18-16.23.57:580][538]LogLoad: LoadMap: /Game/Gameplay/MainLevel
+[2024.03.18-16.23.57:580][538]LogWorld: BeginTearingDown for /Game/game/UEDPIE_0_mainMenu
+[2024.03.18-16.23.57:581][538]LogWorld: UWorld::CleanupWorld for mainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.03.18-16.23.57:581][538]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.18-16.23.57:640][538]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.18-16.23.57:642][538]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.03.18-16.23.57:644][538]LogPlayLevel: Creating play world package: /Game/Gameplay/UEDPIE_0_MainLevel
+[2024.03.18-16.23.57:646][538]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002277s)
+[2024.03.18-16.23.57:646][538]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Gameplay/MainLevel.MainLevel to /Game/Gameplay/UEDPIE_0_MainLevel.MainLevel (0.002309s)
+[2024.03.18-16.23.57:647][538]LogAudio: Display: Audio Device (ID: 14) registered with world 'MainLevel'.
+[2024.03.18-16.23.57:647][538]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.18-16.23.57:647][538]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.18-16.23.57:647][538]LogAIModule: Creating AISystem for world MainLevel
+[2024.03.18-16.23.57:647][538]LogWorldPartition: ULevel::OnLevelLoaded(MainLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.18-16.23.57:647][538]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.18-16.23.57:647][538]LogWorldPartition: UWorldPartition::Initialize(Asset=MainLevel, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.03.18-16.23.57:648][538]LogContentBundle: [MainLevel(Standalone)] Creating new contrainer.
+[2024.03.18-16.23.57:648][538]LogWorldPartition: Display: WorldPartition initialize took 582 us (total: 543 ms)
+[2024.03.18-16.23.57:648][538]LogPlayLevel: PIE: World Init took: (0.001338s)
+[2024.03.18-16.23.57:648][538]LogLoad: Game class is 'GameModeBase'
+[2024.03.18-16.23.57:648][538]LogWorld: Bringing World /Game/Gameplay/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2024.03.18-12.23.57
+[2024.03.18-16.23.57:648][538]LogWorld: Bringing up level for play took: 0.000513
+[2024.03.18-16.23.57:649][538]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.03.18-16.23.57:650][538]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/menu/inGameUI.inGameUI_C:Get_DistanceText_Text'!
+[2024.03.18-16.23.57:650][538]LogScript: Warning: Script Msg called by: inGameUI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_12.inGameUI_C_2
+[2024.03.18-16.23.57:650][538]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	inGameUI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_12.inGameUI_C_2
+	Function /Game/menu/inGameUI.inGameUI_C:Get_DistanceText_Text:0088
+[2024.03.18-16.23.57:650][538]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Return Node Graph:  Get_DistanceText_Text Function:  Get Distance Text Text Blueprint:  inGameUI
+[2024.03.18-16.23.57:650][538]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/menu/inGameUI.inGameUI_C:Get_DeerText_Text'!
+[2024.03.18-16.23.57:650][538]LogScript: Warning: Script Msg called by: inGameUI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_12.inGameUI_C_2
+[2024.03.18-16.23.57:650][538]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	inGameUI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_12.inGameUI_C_2
+	Function /Game/menu/inGameUI.inGameUI_C:Get_DeerText_Text:0088
+[2024.03.18-16.23.57:650][538]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Return Node Graph:  Get_DeerText_Text Function:  Get Deer Text Text Blueprint:  inGameUI
+[2024.03.18-16.23.57:651][538]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/menu/inGameUI.inGameUI_C:Get_HealthText_Text'!
+[2024.03.18-16.23.57:651][538]LogScript: Warning: Script Msg called by: inGameUI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_12.inGameUI_C_2
+[2024.03.18-16.23.57:651][538]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	inGameUI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_12.inGameUI_C_2
+	Function /Game/menu/inGameUI.inGameUI_C:Get_HealthText_Text:0088
+[2024.03.18-16.23.57:651][538]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Return Node Graph:  Get_HealthText_Text Function:  Get Health Text Text Blueprint:  inGameUI
+[2024.03.18-16.23.57:651][538]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(1), CellsToLoad(0), CellsToUnload(0)
+[2024.03.18-16.23.57:651][538]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=570.000 Y=0.000 Z=133.000,P=-0.000000 Y=-90.000000 R=0.000000
+[2024.03.18-16.23.57:651][538]LogStreaming: Display: FlushAsyncLoading(-1): 4 QueuedPackages, 0 AsyncPackages
+[2024.03.18-16.23.57:656][538]LogScript: Warning: Script Msg: Global_C_UAID_18C04D32C2B894E301_1265625921 SpawnObstacle_Event SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2024.03.18-16.23.57:656][538]LogScript: Warning: Script Msg called by: Global_C /Memory/UEDPIE_0_MainLevel_MainGrid_L0_X0_Y0.MainLevel:PersistentLevel.Global_C_UAID_18C04D32C2B894E301_1265625921
+[2024.03.18-16.23.57:656][538]LogLoad: Took 0.075002 seconds to LoadMap(/Game/Gameplay/UEDPIE_0_MainLevel)
+[2024.03.18-16.23.57:663][538]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.57:663][538]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.57:664][538]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.57:664][538]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.57:664][538]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.57:664][538]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.57:665][538]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.57:665][538]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.57:665][538]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.57:666][538]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_MainLevel_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Gameplay/MainLevel/5/6T/DVHFYDNGRNRQUBZUVG6UOT' is in a memory-only mount point.
+[2024.03.18-16.23.57:667][538]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.57:667][538]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.57:667][538]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.57:668][538]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.57:680][539]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.57:681][539]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.57:682][539]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.57:682][539]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.57:683][539]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.57:684][539]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.57:684][539]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.57:685][539]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.57:685][539]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.57:686][539]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_MainLevel_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Gameplay/MainLevel/5/6T/DVHFYDNGRNRQUBZUVG6UOT' is in a memory-only mount point.
+[2024.03.18-16.23.57:687][539]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.57:687][539]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.57:688][539]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.23.57:688][539]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.24.01:186][703]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.18-16.24.01:186][703]LogWorld: BeginTearingDown for /Game/Gameplay/UEDPIE_0_MainLevel
+[2024.03.18-16.24.01:186][703]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2024.03.18-16.24.01:187][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.18-16.24.01:187][703]LogContentBundle: [MainLevel(Standalone)] Deleting container.
+[2024.03.18-16.24.01:191][703]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.18-16.24.01:195][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.18-16.24.01:216][703]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.18-16.24.01:216][703]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2024.03.18-16.24.01:216][703]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.03.18-16.24.01:218][703]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.03.18-16.24.01:221][703]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.18-16.24.01:223][703]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.03.18-16.24.01:339][703]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.24.01:390][704]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2024.03.18-16.24.01:439][704]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.24.07:239][964]LogSlate: Window 'Message Log' being destroyed
+[2024.03.18-16.24.07:248][964]LogSlate: Window 'Message Log' being destroyed
+[2024.03.18-16.24.08:322][ 12]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.18-16.24.08:328][ 12]LogContentBundle: [MainLevel(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.18-16.24.08:329][ 12]LogWorldPartition: Display: GenerateStreaming started...
+[2024.03.18-16.24.08:329][ 12]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.03.18-16.24.08:329][ 12]LogWorldPartition: Display: GetPartitionedActors took 7 us (total: 138 us)
+[2024.03.18-16.24.08:329][ 12]LogWorldPartition: Display: GenerateStreaming took 95 us (total: 1 ms)
+[2024.03.18-16.24.08:329][ 12]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.18-16.24.08:329][ 12]PIE: New page: PIE session: MainLevel (Mar 18, 2024, 8:24:08 AM)
+[2024.03.18-16.24.08:329][ 12]LogPlayLevel: Creating play world package: /Game/Gameplay/UEDPIE_0_MainLevel
+[2024.03.18-16.24.08:332][ 12]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002365s)
+[2024.03.18-16.24.08:332][ 12]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Gameplay/MainLevel.MainLevel to /Game/Gameplay/UEDPIE_0_MainLevel.MainLevel (0.002391s)
+[2024.03.18-16.24.08:332][ 12]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.18-16.24.08:332][ 12]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.18-16.24.08:332][ 12]LogAIModule: Creating AISystem for world MainLevel
+[2024.03.18-16.24.08:332][ 12]LogWorldPartition: ULevel::OnLevelLoaded(MainLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.18-16.24.08:332][ 12]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.18-16.24.08:332][ 12]LogWorldPartition: UWorldPartition::Initialize(Asset=MainLevel, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.03.18-16.24.08:334][ 12]LogContentBundle: [MainLevel(Standalone)] Creating new contrainer.
+[2024.03.18-16.24.08:334][ 12]LogWorldPartition: Display: WorldPartition initialize took 606 us (total: 543 ms)
+[2024.03.18-16.24.08:334][ 12]LogPlayLevel: PIE: World Init took: (0.001462s)
+[2024.03.18-16.24.08:353][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.03.18-16.24.08:354][ 12]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.03.18-16.24.08:354][ 12]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.18-16.24.08:354][ 12]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.18-16.24.08:354][ 12]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.18-16.24.08:354][ 12]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.18-16.24.08:354][ 12]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.18-16.24.08:354][ 12]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.03.18-16.24.08:354][ 12]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.18-16.24.08:354][ 12]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.18-16.24.08:354][ 12]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.18-16.24.08:354][ 12]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.18-16.24.08:354][ 12]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.18-16.24.08:356][ 12]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.18-16.24.08:382][ 12]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.18-16.24.08:382][ 12]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.18-16.24.08:382][ 12]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.18-16.24.08:382][ 12]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.18-16.24.08:382][ 12]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.03.18-16.24.08:382][ 12]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2024.03.18-16.24.08:385][ 12]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.03.18-16.24.08:385][ 12]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.03.18-16.24.08:385][ 12]LogInit: FAudioDevice initialized with ID 15.
+[2024.03.18-16.24.08:385][ 12]LogAudio: Display: Audio Device (ID: 15) registered with world 'MainLevel'.
+[2024.03.18-16.24.08:385][ 12]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2024.03.18-16.24.08:388][ 12]LogLoad: Game class is 'GameModeBase'
+[2024.03.18-16.24.08:389][ 12]LogWorld: Bringing World /Game/Gameplay/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2024.03.18-12.24.08
+[2024.03.18-16.24.08:389][ 12]LogWorld: Bringing up level for play took: 0.000594
+[2024.03.18-16.24.08:391][ 12]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2024.03.18-16.24.08:391][ 12]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(1), CellsToLoad(0), CellsToUnload(0)
+[2024.03.18-16.24.08:391][ 12]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=570.000 Y=0.000 Z=133.000,P=-0.000000 Y=-90.000000 R=0.000000
+[2024.03.18-16.24.08:391][ 12]LogStreaming: Display: FlushAsyncLoading(-1): 4 QueuedPackages, 0 AsyncPackages
+[2024.03.18-16.24.08:397][ 12]LogScript: Warning: Script Msg: Global_C_UAID_18C04D32C2B894E301_1265625921 SpawnObstacle_Event SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2024.03.18-16.24.08:397][ 12]LogScript: Warning: Script Msg called by: Global_C /Memory/UEDPIE_0_MainLevel_MainGrid_L0_X0_Y0.MainLevel:PersistentLevel.Global_C_UAID_18C04D32C2B894E301_1265625921
+[2024.03.18-16.24.08:397][ 12]PIE: Server logged in
+[2024.03.18-16.24.08:398][ 12]PIE: Play in editor total start time 0.07 seconds.
+[2024.03.18-16.24.08:442][ 12]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.24.08:442][ 12]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.24.08:442][ 12]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.24.08:442][ 12]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.24.08:444][ 12]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.24.08:444][ 12]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.24.08:444][ 12]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.24.08:445][ 12]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.24.08:445][ 12]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.24.08:446][ 12]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_MainLevel_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Gameplay/MainLevel/5/6T/DVHFYDNGRNRQUBZUVG6UOT' is in a memory-only mount point.
+[2024.03.18-16.24.08:446][ 12]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.24.08:446][ 12]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.24.08:447][ 12]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.24.08:447][ 12]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.24.08:459][ 13]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.24.08:460][ 13]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.24.08:460][ 13]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.24.08:460][ 13]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.24.08:461][ 13]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.24.08:461][ 13]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.24.08:461][ 13]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.24.08:462][ 13]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.24.08:462][ 13]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.24.08:462][ 13]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_MainLevel_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Gameplay/MainLevel/5/6T/DVHFYDNGRNRQUBZUVG6UOT' is in a memory-only mount point.
+[2024.03.18-16.24.08:462][ 13]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.24.08:464][ 13]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.24.08:464][ 13]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.24.08:465][ 13]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.24.09:416][ 54]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.18-16.24.09:416][ 54]LogWorld: BeginTearingDown for /Game/Gameplay/UEDPIE_0_MainLevel
+[2024.03.18-16.24.09:416][ 54]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2024.03.18-16.24.09:416][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.18-16.24.09:416][ 54]LogContentBundle: [MainLevel(Standalone)] Deleting container.
+[2024.03.18-16.24.09:420][ 54]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.18-16.24.09:425][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.18-16.24.09:447][ 54]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.18-16.24.09:447][ 54]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2024.03.18-16.24.09:447][ 54]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.03.18-16.24.09:448][ 54]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.03.18-16.24.09:452][ 54]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.18-16.24.09:455][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.03.18-16.24.09:469][ 54]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.24.09:514][ 55]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2024.03.18-16.24.09:520][ 55]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.24.31:147][168]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.03.18-16.24.31:147][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.18-16.24.31:931][208]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.03.18-16.24.31:931][208]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.03.18-16.24.31:931][208]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.18-16.24.32:683][246]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2024.03.18-16.24.32:683][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.18-16.24.32:688][246]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2024.03.18-16.24.32:688][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.18-16.24.48:556][ 79]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/menu/pauseScene.pauseScene
+[2024.03.18-16.24.48:557][ 79]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.18-16.24.48:557][ 79]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.18-16.24.48:586][ 79]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.18-16.24.48:586][ 79]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.18-16.25.20:704][345]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/menu/inGameUI.inGameUI
+[2024.03.18-16.25.20:705][345]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.18-16.25.20:705][345]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.18-16.25.20:733][345]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.18-16.25.20:733][345]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.18-16.26.14:404][421]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Gameplay/CarBP.CarBP
+[2024.03.18-16.26.14:404][421]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.18-16.26.14:404][421]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.18-16.26.24:966][982]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.18-16.26.25:051][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gameplay/CarBP" FILE="../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Content/Gameplay/CarBP.uasset" SILENT=true
+[2024.03.18-16.26.25:066][982]LogSavePackage: Moving output files for package: /Game/Gameplay/CarBP
+[2024.03.18-16.26.25:067][982]LogSavePackage: Moving '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Saved/CarBP2F8972F346F4AA2E259BA8A3295C2810.tmp' to '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Content/Gameplay/CarBP.uasset'
+[2024.03.18-16.26.25:076][982]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 4.80 sec)
+[2024.03.18-16.26.25:081][982]AssetCheck: New page: Asset Save: CarBP
+[2024.03.18-16.26.25:081][982]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Gameplay/CarBP.CarBP
+[2024.03.18-16.27.20:920][788]LogHttp: Warning: 0000071E581E5500: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64CC0640-4B14-29D8-BAA7-CFB91B6115E7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=e77913444c60ac2867487ea227aec197%7Cc4317d4b1cea4f28802e3a8de0be4f65%7Cc786482b-db54-4f3c-834e-467a3f8abe43&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.18-16.27.20:920][788]LogHttp: Warning: 0000071E581E5500: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.18-16.27.20:920][788]LogHttp: Warning: 0000071E581E5500: libcurl info message cache 0 (Found bundle for host: 0x71dde960960 [serially])
+[2024.03.18-16.27.20:920][788]LogHttp: Warning: 0000071E581E5500: libcurl info message cache 1 (Re-using existing connection #23 with host datarouter.ol.epicgames.com)
+[2024.03.18-16.27.20:920][788]LogHttp: Warning: 0000071E581E5500: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.220.113.241) port 443 (#23))
+[2024.03.18-16.27.20:920][788]LogHttp: Warning: 0000071E581E5500: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.18-16.27.20:920][788]LogHttp: Warning: 0000071E581E5500: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.18-16.27.20:920][788]LogHttp: Warning: 0000071E581E5500: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.18-16.27.20:920][788]LogHttp: Warning: 0000071E581E5500: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.18-16.27.20:920][788]LogHttp: Warning: 0000071E581E5500: libcurl info message cache 7 (Closing connection 23)
+[2024.03.18-16.27.20:920][788]LogHttp: Warning: 0000071E581E5500: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.18-16.27.20:920][788]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64CC0640-4B14-29D8-BAA7-CFB91B6115E7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=e77913444c60ac2867487ea227aec197%7Cc4317d4b1cea4f28802e3a8de0be4f65%7Cc786482b-db54-4f3c-834e-467a3f8abe43&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.18-16.28.37:963][696]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.18-16.28.38:059][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gameplay/CarBP" FILE="../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Content/Gameplay/CarBP.uasset" SILENT=true
+[2024.03.18-16.28.38:074][696]LogSavePackage: Moving output files for package: /Game/Gameplay/CarBP
+[2024.03.18-16.28.38:075][696]LogSavePackage: Moving '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Saved/CarBPB583FDAA47150141FF5A2A8D5B9CD246.tmp' to '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Content/Gameplay/CarBP.uasset'
+[2024.03.18-16.28.38:083][696]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 4.92 sec)
+[2024.03.18-16.28.38:091][696]AssetCheck: New page: Asset Save: CarBP
+[2024.03.18-16.28.38:092][696]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Gameplay/CarBP.CarBP
+[2024.03.18-16.28.38:578][724]BlueprintLog: New page: Compile CarBP
+[2024.03.18-16.28.38:634][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.03.18-16.28.46:811][142]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.18-16.28.46:817][142]LogContentBundle: [MainLevel(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.18-16.28.46:818][142]LogWorldPartition: Display: GenerateStreaming started...
+[2024.03.18-16.28.46:818][142]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.03.18-16.28.46:818][142]LogWorldPartition: Display: GetPartitionedActors took 9 us (total: 148 us)
+[2024.03.18-16.28.46:818][142]LogWorldPartition: Display: GenerateStreaming took 102 us (total: 1 ms)
+[2024.03.18-16.28.46:818][142]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.18-16.28.46:818][142]PIE: New page: PIE session: MainLevel (Mar 18, 2024, 8:28:46 AM)
+[2024.03.18-16.28.46:818][142]LogPlayLevel: Creating play world package: /Game/Gameplay/UEDPIE_0_MainLevel
+[2024.03.18-16.28.46:821][142]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002464s)
+[2024.03.18-16.28.46:821][142]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Gameplay/MainLevel.MainLevel to /Game/Gameplay/UEDPIE_0_MainLevel.MainLevel (0.002492s)
+[2024.03.18-16.28.46:821][142]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.18-16.28.46:821][142]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.18-16.28.46:822][142]LogAIModule: Creating AISystem for world MainLevel
+[2024.03.18-16.28.46:822][142]LogWorldPartition: ULevel::OnLevelLoaded(MainLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.18-16.28.46:822][142]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.18-16.28.46:822][142]LogWorldPartition: UWorldPartition::Initialize(Asset=MainLevel, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.03.18-16.28.46:822][142]LogContentBundle: [MainLevel(Standalone)] Creating new contrainer.
+[2024.03.18-16.28.46:822][142]LogWorldPartition: Display: WorldPartition initialize took 670 us (total: 544 ms)
+[2024.03.18-16.28.46:822][142]LogPlayLevel: PIE: World Init took: (0.001647s)
+[2024.03.18-16.28.46:843][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.03.18-16.28.46:845][142]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2024.03.18-16.28.46:846][142]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.18-16.28.46:846][142]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.18-16.28.46:846][142]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.18-16.28.46:846][142]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.18-16.28.46:846][142]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.18-16.28.46:846][142]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.03.18-16.28.46:846][142]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.18-16.28.46:846][142]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.18-16.28.46:846][142]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.18-16.28.46:846][142]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.18-16.28.46:846][142]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.18-16.28.46:848][142]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.18-16.28.46:875][142]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.18-16.28.46:875][142]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.18-16.28.46:875][142]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.18-16.28.46:875][142]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.18-16.28.46:876][142]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2024.03.18-16.28.46:876][142]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2024.03.18-16.28.46:877][142]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2024.03.18-16.28.46:877][142]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2024.03.18-16.28.46:877][142]LogInit: FAudioDevice initialized with ID 16.
+[2024.03.18-16.28.46:877][142]LogAudio: Display: Audio Device (ID: 16) registered with world 'MainLevel'.
+[2024.03.18-16.28.46:877][142]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2024.03.18-16.28.46:880][142]LogLoad: Game class is 'GameModeBase'
+[2024.03.18-16.28.46:881][142]LogWorld: Bringing World /Game/Gameplay/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2024.03.18-12.28.46
+[2024.03.18-16.28.46:881][142]LogWorld: Bringing up level for play took: 0.000639
+[2024.03.18-16.28.46:883][142]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2024.03.18-16.28.46:883][142]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(1), CellsToLoad(0), CellsToUnload(0)
+[2024.03.18-16.28.46:883][142]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=570.000 Y=0.000 Z=133.000,P=-0.000000 Y=-90.000000 R=0.000000
+[2024.03.18-16.28.46:884][142]LogStreaming: Display: FlushAsyncLoading(-1): 4 QueuedPackages, 0 AsyncPackages
+[2024.03.18-16.28.46:890][142]LogScript: Warning: Script Msg: Global_C_UAID_18C04D32C2B894E301_1265625921 SpawnObstacle_Event SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2024.03.18-16.28.46:890][142]LogScript: Warning: Script Msg called by: Global_C /Memory/UEDPIE_0_MainLevel_MainGrid_L0_X0_Y0.MainLevel:PersistentLevel.Global_C_UAID_18C04D32C2B894E301_1265625921
+[2024.03.18-16.28.46:890][142]PIE: Server logged in
+[2024.03.18-16.28.46:891][142]PIE: Play in editor total start time 0.074 seconds.
+[2024.03.18-16.28.46:922][142]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.28.46:922][142]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.28.46:922][142]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.28.46:923][142]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.28.46:923][142]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.28.46:923][142]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.28.46:923][142]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.28.46:925][142]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.28.46:925][142]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.28.46:925][142]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_MainLevel_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Gameplay/MainLevel/5/6T/DVHFYDNGRNRQUBZUVG6UOT' is in a memory-only mount point.
+[2024.03.18-16.28.46:926][142]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.28.46:926][142]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.28.46:927][142]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.28.46:927][142]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.28.46:941][143]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.28.46:941][143]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.28.46:942][143]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.28.46:942][143]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.28.46:942][143]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.28.46:943][143]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.28.46:943][143]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.28.46:943][143]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.28.46:944][143]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.28.46:944][143]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_MainLevel_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Gameplay/MainLevel/5/6T/DVHFYDNGRNRQUBZUVG6UOT' is in a memory-only mount point.
+[2024.03.18-16.28.46:944][143]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.28.46:945][143]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.28.46:945][143]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.28.46:946][143]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.28.49:051][235]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.03.18-16.28.49:051][235]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.03.18-16.28.49:051][235]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.03.18-16.28.50:055][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.18-16.28.50:055][281]LogWorld: BeginTearingDown for /Game/Gameplay/UEDPIE_0_MainLevel
+[2024.03.18-16.28.50:056][281]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2024.03.18-16.28.50:056][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.18-16.28.50:056][281]LogContentBundle: [MainLevel(Standalone)] Deleting container.
+[2024.03.18-16.28.50:083][281]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.18-16.28.50:089][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.18-16.28.50:111][281]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.18-16.28.50:111][281]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2024.03.18-16.28.50:111][281]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.03.18-16.28.50:112][281]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.03.18-16.28.50:116][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.18-16.28.50:118][281]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.03.18-16.28.50:133][281]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.28.50:215][282]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2024.03.18-16.28.50:224][282]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.28.51:905][370]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.18-16.28.51:913][370]LogContentBundle: [MainLevel(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.18-16.28.51:914][370]LogWorldPartition: Display: GenerateStreaming started...
+[2024.03.18-16.28.51:914][370]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.03.18-16.28.51:914][370]LogWorldPartition: Display: GetPartitionedActors took 8 us (total: 156 us)
+[2024.03.18-16.28.51:914][370]LogWorldPartition: Display: GenerateStreaming took 103 us (total: 1 ms)
+[2024.03.18-16.28.51:914][370]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.18-16.28.51:914][370]PIE: New page: PIE session: MainLevel (Mar 18, 2024, 8:28:51 AM)
+[2024.03.18-16.28.51:914][370]LogPlayLevel: Creating play world package: /Game/Gameplay/UEDPIE_0_MainLevel
+[2024.03.18-16.28.51:917][370]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002356s)
+[2024.03.18-16.28.51:917][370]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Gameplay/MainLevel.MainLevel to /Game/Gameplay/UEDPIE_0_MainLevel.MainLevel (0.002390s)
+[2024.03.18-16.28.51:917][370]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.18-16.28.51:917][370]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.18-16.28.51:917][370]LogAIModule: Creating AISystem for world MainLevel
+[2024.03.18-16.28.51:917][370]LogWorldPartition: ULevel::OnLevelLoaded(MainLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.18-16.28.51:917][370]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.18-16.28.51:917][370]LogWorldPartition: UWorldPartition::Initialize(Asset=MainLevel, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.03.18-16.28.51:918][370]LogContentBundle: [MainLevel(Standalone)] Creating new contrainer.
+[2024.03.18-16.28.51:918][370]LogWorldPartition: Display: WorldPartition initialize took 633 us (total: 544 ms)
+[2024.03.18-16.28.51:918][370]LogPlayLevel: PIE: World Init took: (0.001514s)
+[2024.03.18-16.28.51:938][370]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.03.18-16.28.51:940][370]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2024.03.18-16.28.51:940][370]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.18-16.28.51:940][370]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.18-16.28.51:940][370]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.18-16.28.51:940][370]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.18-16.28.51:940][370]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.18-16.28.51:940][370]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.03.18-16.28.51:940][370]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.18-16.28.51:940][370]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.18-16.28.51:940][370]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.18-16.28.51:940][370]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.18-16.28.51:940][370]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.18-16.28.51:942][370]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.18-16.28.51:967][370]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.18-16.28.51:968][370]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.18-16.28.51:968][370]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.18-16.28.51:968][370]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.18-16.28.51:968][370]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2024.03.18-16.28.51:968][370]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2024.03.18-16.28.51:970][370]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2024.03.18-16.28.51:970][370]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2024.03.18-16.28.51:970][370]LogInit: FAudioDevice initialized with ID 17.
+[2024.03.18-16.28.51:970][370]LogAudio: Display: Audio Device (ID: 17) registered with world 'MainLevel'.
+[2024.03.18-16.28.51:970][370]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2024.03.18-16.28.51:973][370]LogLoad: Game class is 'GameModeBase'
+[2024.03.18-16.28.51:974][370]LogWorld: Bringing World /Game/Gameplay/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2024.03.18-12.28.51
+[2024.03.18-16.28.51:974][370]LogWorld: Bringing up level for play took: 0.000567
+[2024.03.18-16.28.51:976][370]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2024.03.18-16.28.51:976][370]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(1), CellsToLoad(0), CellsToUnload(0)
+[2024.03.18-16.28.51:976][370]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=570.000 Y=0.000 Z=133.000,P=-0.000000 Y=-90.000000 R=0.000000
+[2024.03.18-16.28.51:976][370]LogStreaming: Display: FlushAsyncLoading(-1): 4 QueuedPackages, 0 AsyncPackages
+[2024.03.18-16.28.51:982][370]LogScript: Warning: Script Msg: Global_C_UAID_18C04D32C2B894E301_1265625921 SpawnObstacle_Event SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2024.03.18-16.28.51:982][370]LogScript: Warning: Script Msg called by: Global_C /Memory/UEDPIE_0_MainLevel_MainGrid_L0_X0_Y0.MainLevel:PersistentLevel.Global_C_UAID_18C04D32C2B894E301_1265625921
+[2024.03.18-16.28.51:982][370]PIE: Server logged in
+[2024.03.18-16.28.51:983][370]PIE: Play in editor total start time 0.07 seconds.
+[2024.03.18-16.28.52:001][370]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.28.52:002][370]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.28.52:002][370]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.28.52:002][370]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.28.52:002][370]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.28.52:003][370]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.28.52:003][370]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.28.52:003][370]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.28.52:004][370]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.28.52:004][370]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_MainLevel_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Gameplay/MainLevel/5/6T/DVHFYDNGRNRQUBZUVG6UOT' is in a memory-only mount point.
+[2024.03.18-16.28.52:004][370]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.28.52:006][370]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.28.52:006][370]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.28.52:006][370]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.28.52:041][371]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.28.52:041][371]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.28.52:042][371]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.28.52:042][371]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.28.52:042][371]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.28.52:042][371]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.28.52:043][371]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.28.52:043][371]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.28.52:043][371]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.28.52:044][371]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_MainLevel_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Gameplay/MainLevel/5/6T/DVHFYDNGRNRQUBZUVG6UOT' is in a memory-only mount point.
+[2024.03.18-16.28.52:044][371]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.28.52:045][371]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.28.52:045][371]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.28.52:045][371]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.28.54:100][465]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.03.18-16.28.54:100][465]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.03.18-16.28.54:100][465]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.03.18-16.28.55:967][554]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.03.18-16.28.55:967][554]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.03.18-16.28.59:480][719]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.03.18-16.28.59:480][719]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.03.18-16.29.00:376][760]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.18-16.29.00:376][760]LogWorld: BeginTearingDown for /Game/Gameplay/UEDPIE_0_MainLevel
+[2024.03.18-16.29.00:376][760]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2024.03.18-16.29.00:376][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.18-16.29.00:376][760]LogContentBundle: [MainLevel(Standalone)] Deleting container.
+[2024.03.18-16.29.00:404][760]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.18-16.29.00:409][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.18-16.29.00:431][760]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.18-16.29.00:431][760]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2024.03.18-16.29.00:431][760]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.03.18-16.29.00:433][760]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.03.18-16.29.00:439][760]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.03.18-16.29.00:459][760]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.29.00:541][761]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2024.03.18-16.29.00:555][761]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.18-16.29.03:100][893]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.18-16.29.03:207][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gameplay/CarBP" FILE="../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Content/Gameplay/CarBP.uasset" SILENT=true
+[2024.03.18-16.29.03:223][893]LogSavePackage: Moving output files for package: /Game/Gameplay/CarBP
+[2024.03.18-16.29.03:223][893]LogSavePackage: Moving '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Saved/CarBP9D2211A8443031A87AABC8905C2BE7E3.tmp' to '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Content/Gameplay/CarBP.uasset'
+[2024.03.18-16.29.03:231][893]LogFileHelpers: InternalPromptForCheckoutAndSave took 131 ms (total: 5.05 sec)
+[2024.03.18-16.29.03:237][893]AssetCheck: New page: Asset Save: CarBP
+[2024.03.18-16.29.03:237][893]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Gameplay/CarBP.CarBP
+[2024.03.18-16.29.28:909][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.03.18-16.29.28:913][ 95]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Gameplay/MainLevel/B/1V/LMEQJJIK37LTLWT9Y4PHHW_Auto5
+[2024.03.18-16.29.28:913][ 95]LogSavePackage: Moving '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Saved/LMEQJJIK37LTLWT9Y4PHHW_Auto51D4D5B624EFAE5B1D358588D9BC53869.tmp' to '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Saved/Autosaves/Game/__ExternalActors__/Gameplay/MainLevel/B/1V/LMEQJJIK37LTLWT9Y4PHHW_Auto5.uasset'
+[2024.03.18-16.29.28:915][ 95]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Gameplay/MainLevel/B/L6/63FP7OUW3RLNMDUNZ4PW8Q_Auto5
+[2024.03.18-16.29.28:916][ 95]LogSavePackage: Moving '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Saved/63FP7OUW3RLNMDUNZ4PW8Q_Auto58A66C54A40E2B438B0E1F6964D6294F9.tmp' to '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Saved/Autosaves/Game/__ExternalActors__/Gameplay/MainLevel/B/L6/63FP7OUW3RLNMDUNZ4PW8Q_Auto5.uasset'
+[2024.03.18-16.29.28:918][ 95]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Gameplay/MainLevel/D/0N/NMXCFQU9V2PER6IL7RXN1L_Auto5
+[2024.03.18-16.29.28:919][ 95]LogSavePackage: Moving '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Saved/NMXCFQU9V2PER6IL7RXN1L_Auto5DBD00646499EF959F09B66942D778105.tmp' to '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Saved/Autosaves/Game/__ExternalActors__/Gameplay/MainLevel/D/0N/NMXCFQU9V2PER6IL7RXN1L_Auto5.uasset'
+[2024.03.18-16.29.28:920][ 95]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Gameplay/MainLevel' took 0.035
+[2024.03.18-16.29.28:920][ 95]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.035
+[2024.03.18-16.33.28:062][740]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.18-16.33.28:155][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gameplay/CarBP" FILE="../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Content/Gameplay/CarBP.uasset" SILENT=true
+[2024.03.18-16.33.28:170][740]LogSavePackage: Moving output files for package: /Game/Gameplay/CarBP
+[2024.03.18-16.33.28:171][740]LogSavePackage: Moving '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Saved/CarBP20925A0F4E4AA4EF22EBFAB8382EE2EF.tmp' to '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Content/Gameplay/CarBP.uasset'
+[2024.03.18-16.33.28:181][740]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 5.17 sec)
+[2024.03.18-16.33.28:187][740]AssetCheck: New page: Asset Save: CarBP
+[2024.03.18-16.33.28:187][740]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Gameplay/CarBP.CarBP
+[2024.03.18-16.33.40:632][391]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.18-16.33.40:724][391]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.03.18-16.33.40:744][391]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.03.18-16.33.40:764][391]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.03.18-16.33.40:766][391]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Gameplay/MainLevel/B/1V/LMEQJJIK37LTLWT9Y4PHHW
+[2024.03.18-16.33.40:767][391]LogSavePackage: Moving '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Saved/LMEQJJIK37LTLWT9Y4PHHWB1A95E2F41D1B6667E8726A70B8FA4BD.tmp' to '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Content/__ExternalActors__/Gameplay/MainLevel/B/1V/LMEQJJIK37LTLWT9Y4PHHW.uasset'
+[2024.03.18-16.33.40:769][391]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Gameplay/MainLevel/B/L6/63FP7OUW3RLNMDUNZ4PW8Q
+[2024.03.18-16.33.40:769][391]LogSavePackage: Moving '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Saved/63FP7OUW3RLNMDUNZ4PW8QA5E384484977D28BE7ACE099A83FF23F.tmp' to '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Content/__ExternalActors__/Gameplay/MainLevel/B/L6/63FP7OUW3RLNMDUNZ4PW8Q.uasset'
+[2024.03.18-16.33.40:771][391]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Gameplay/MainLevel/D/0N/NMXCFQU9V2PER6IL7RXN1L
+[2024.03.18-16.33.40:771][391]LogSavePackage: Moving '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Saved/NMXCFQU9V2PER6IL7RXN1LCE18FE6E4C7460E08CFA53B283A3DB49.tmp' to '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Content/__ExternalActors__/Gameplay/MainLevel/D/0N/NMXCFQU9V2PER6IL7RXN1L.uasset'
+[2024.03.18-16.33.40:780][391]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 5.32 sec)
+[2024.03.18-16.33.40:787][391]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.18-16.33.40:787][391]LogContentValidation: Display: Validating /Script/Engine.SpotLight /Game/Gameplay/MainLevel.MainLevel:PersistentLevel.SpotLight_UAID_18C04D32C2B8FAE201_2107551820
+[2024.03.18-16.33.40:787][391]LogContentValidation: Display: Validating /Script/Engine.SpotLight /Game/Gameplay/MainLevel.MainLevel:PersistentLevel.SpotLight_UAID_18C04D32C2B8FAE201_1726219819
+[2024.03.18-16.33.40:787][391]LogContentValidation: Display: Validating /Game/Gameplay/CarBP.CarBP_C /Game/Gameplay/MainLevel.MainLevel:PersistentLevel.CarBP_C_UAID_18C04D32C2B807E201_1300118053
+[2024.03.18-16.34.22:025][594]LogHttp: Warning: 0000071E62D29100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64CC0640-4B14-29D8-BAA7-CFB91B6115E7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=e77913444c60ac2867487ea227aec197%7Cc4317d4b1cea4f28802e3a8de0be4f65%7Cc786482b-db54-4f3c-834e-467a3f8abe43&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.18-16.34.22:025][594]LogHttp: Warning: 0000071E62D29100: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2024.03.18-16.34.22:025][594]LogHttp: Warning: 0000071E62D29100: libcurl info message cache 0 (Found bundle for host: 0x71dde960030 [serially])
+[2024.03.18-16.34.22:025][594]LogHttp: Warning: 0000071E62D29100: libcurl info message cache 1 (Re-using existing connection #27 with host datarouter.ol.epicgames.com)
+[2024.03.18-16.34.22:025][594]LogHttp: Warning: 0000071E62D29100: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.166.17.16) port 443 (#27))
+[2024.03.18-16.34.22:025][594]LogHttp: Warning: 0000071E62D29100: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.18-16.34.22:025][594]LogHttp: Warning: 0000071E62D29100: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2024.03.18-16.34.22:025][594]LogHttp: Warning: 0000071E62D29100: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.18-16.34.22:025][594]LogHttp: Warning: 0000071E62D29100: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.18-16.34.22:025][594]LogHttp: Warning: 0000071E62D29100: libcurl info message cache 7 (Closing connection 27)
+[2024.03.18-16.34.22:025][594]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64CC0640-4B14-29D8-BAA7-CFB91B6115E7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=e77913444c60ac2867487ea227aec197%7Cc4317d4b1cea4f28802e3a8de0be4f65%7Cc786482b-db54-4f3c-834e-467a3f8abe43&AppEnvironment=datacollector-binary&UploadType=eteventstream
