@@ -15738,3 +15738,1052 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.22-01.13.11:434][220]LogFileHelpers: InternalPromptForCheckoutAndSave took 140 ms (total: 11.5 sec)
 [2024.03.22-01.13.11:440][220]AssetCheck: New page: Asset Save: CarBP
 [2024.03.22-01.13.11:440][220]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Gameplay/CarBP.CarBP
+[2024.03.22-01.15.13:850][ 94]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/menu/pauseScene.pauseScene
+[2024.03.22-01.15.13:851][ 94]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.22-01.15.13:851][ 94]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.22-01.15.13:881][ 94]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.22-01.15.13:881][ 94]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.22-01.16.25:858][871]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.22-01.16.25:973][871]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/menu/pauseScene" FILE="../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Content/menu/pauseScene.uasset" SILENT=true
+[2024.03.22-01.16.25:983][871]LogSavePackage: Moving output files for package: /Game/menu/pauseScene
+[2024.03.22-01.16.25:984][871]LogSavePackage: Moving '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Saved/pauseScene2C30B2C94DAB3748961FCFAFD187BA8F.tmp' to '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Content/menu/pauseScene.uasset'
+[2024.03.22-01.16.25:997][871]LogFileHelpers: InternalPromptForCheckoutAndSave took 140 ms (total: 11.7 sec)
+[2024.03.22-01.16.26:004][871]AssetCheck: New page: Asset Save: pauseScene
+[2024.03.22-01.16.26:004][871]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/menu/pauseScene.pauseScene
+[2024.03.22-01.16.49:401][ 61]LogDerivedDataCache: C:/Users/raiab/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:12.102 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 6577 files in 8442 folders with total size 3570 MiB.
+[2024.03.22-01.17.11:834][449]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.22-01.17.11:915][449]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/menu/pauseScene" FILE="../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Content/menu/pauseScene.uasset" SILENT=true
+[2024.03.22-01.17.11:927][449]LogSavePackage: Moving output files for package: /Game/menu/pauseScene
+[2024.03.22-01.17.11:927][449]LogSavePackage: Moving '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Saved/pauseScene329389F943A4E8E3CEF166A0BCCF3F46.tmp' to '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Content/menu/pauseScene.uasset'
+[2024.03.22-01.17.11:940][449]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 11.8 sec)
+[2024.03.22-01.17.11:947][449]AssetCheck: New page: Asset Save: pauseScene
+[2024.03.22-01.17.11:947][449]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/menu/pauseScene.pauseScene
+[2024.03.22-01.17.12:460][479]BlueprintLog: New page: Compile pauseScene
+[2024.03.22-01.17.12:513][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.03.22-01.17.15:635][634]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.22-01.17.15:643][634]LogContentBundle: [MainLevel(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.22-01.17.15:644][634]LogWorldPartition: Display: GenerateStreaming started...
+[2024.03.22-01.17.15:644][634]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.03.22-01.17.15:644][634]LogWorldPartition: Display: GetPartitionedActors took 11 us (total: 517 us)
+[2024.03.22-01.17.15:644][634]LogWorldPartition: Display: GenerateStreaming took 118 us (total: 11 ms)
+[2024.03.22-01.17.15:644][634]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.22-01.17.15:644][634]PIE: New page: PIE session: MainLevel (Mar 21, 2024, 5:17:15 PM)
+[2024.03.22-01.17.15:644][634]LogPlayLevel: Creating play world package: /Game/Gameplay/UEDPIE_0_MainLevel
+[2024.03.22-01.17.15:647][634]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003210s)
+[2024.03.22-01.17.15:647][634]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Gameplay/MainLevel.MainLevel to /Game/Gameplay/UEDPIE_0_MainLevel.MainLevel (0.003241s)
+[2024.03.22-01.17.15:647][634]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.22-01.17.15:648][634]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.22-01.17.15:648][634]LogAIModule: Creating AISystem for world MainLevel
+[2024.03.22-01.17.15:648][634]LogWorldPartition: ULevel::OnLevelLoaded(MainLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.22-01.17.15:648][634]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.22-01.17.15:648][634]LogWorldPartition: UWorldPartition::Initialize(Asset=MainLevel, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.03.22-01.17.15:648][634]LogContentBundle: [MainLevel(Standalone)] Creating new contrainer.
+[2024.03.22-01.17.15:648][634]LogWorldPartition: Display: WorldPartition initialize took 659 us (total: 631 ms)
+[2024.03.22-01.17.15:648][634]LogPlayLevel: PIE: World Init took: (0.001642s)
+[2024.03.22-01.17.15:672][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.03.22-01.17.15:674][634]LogAudio: Display: Creating Audio Device:                 Id: 59, Scope: Unique, Realtime: True
+[2024.03.22-01.17.15:674][634]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.22-01.17.15:674][634]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.22-01.17.15:674][634]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.22-01.17.15:674][634]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.22-01.17.15:674][634]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.22-01.17.15:674][634]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.03.22-01.17.15:674][634]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.22-01.17.15:674][634]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.22-01.17.15:675][634]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.22-01.17.15:675][634]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.22-01.17.15:675][634]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.22-01.17.15:677][634]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.22-01.17.15:703][634]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.22-01.17.15:703][634]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.22-01.17.15:703][634]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.22-01.17.15:703][634]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.22-01.17.15:704][634]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=59
+[2024.03.22-01.17.15:704][634]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=59
+[2024.03.22-01.17.15:705][634]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=59
+[2024.03.22-01.17.15:705][634]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=59
+[2024.03.22-01.17.15:705][634]LogInit: FAudioDevice initialized with ID 59.
+[2024.03.22-01.17.15:705][634]LogAudio: Display: Audio Device (ID: 59) registered with world 'MainLevel'.
+[2024.03.22-01.17.15:705][634]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 59
+[2024.03.22-01.17.15:708][634]LogLoad: Game class is 'GameModeBase'
+[2024.03.22-01.17.15:709][634]LogWorld: Bringing World /Game/Gameplay/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2024.03.21-21.17.15
+[2024.03.22-01.17.15:709][634]LogWorld: Bringing up level for play took: 0.000628
+[2024.03.22-01.17.15:711][634]LogOnline: OSS: Created online subsystem instance for: :Context_80
+[2024.03.22-01.17.15:711][634]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(1), CellsToLoad(0), CellsToUnload(0)
+[2024.03.22-01.17.15:711][634]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=570.000 Y=0.000 Z=133.000,P=-0.000000 Y=-90.000000 R=0.000000
+[2024.03.22-01.17.15:715][634]LogScript: Warning: Script Msg: Global_C_UAID_18C04D32C2B894E301_1265625921 SpawnObstacle_Event SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2024.03.22-01.17.15:715][634]LogScript: Warning: Script Msg called by: Global_C /Memory/UEDPIE_0_MainLevel_MainGrid_L0_X0_Y0.MainLevel:PersistentLevel.Global_C_UAID_18C04D32C2B894E301_1265625921
+[2024.03.22-01.17.15:715][634]LogBlueprintUserMessages: 40.0
+[2024.03.22-01.17.15:715][634]PIE: Server logged in
+[2024.03.22-01.17.15:716][634]PIE: Play in editor total start time 0.074 seconds.
+[2024.03.22-01.17.15:748][634]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.17.15:748][634]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.17.15:748][634]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.17.15:749][634]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.17.15:749][634]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.17.15:750][634]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.17.15:750][634]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.17.15:750][634]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.17.15:751][634]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.17.15:751][634]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.17.15:751][634]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.17.15:752][634]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.17.15:752][634]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.17.15:752][634]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.17.15:772][635]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.17.15:772][635]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.17.15:772][635]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.17.15:772][635]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.17.15:773][635]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.17.15:773][635]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.17.15:773][635]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.17.15:774][635]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.17.15:774][635]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.17.15:774][635]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.17.15:775][635]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.17.15:775][635]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.17.15:776][635]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.17.15:776][635]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.17.16:558][668]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.03.22-01.17.16:558][668]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.03.22-01.17.16:558][668]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.03.22-01.17.25:098][ 74]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.22-01.17.25:098][ 74]LogWorld: BeginTearingDown for /Game/Gameplay/UEDPIE_0_MainLevel
+[2024.03.22-01.17.25:098][ 74]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2024.03.22-01.17.25:098][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.22-01.17.25:098][ 74]LogContentBundle: [MainLevel(Standalone)] Deleting container.
+[2024.03.22-01.17.25:256][ 74]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.22-01.17.25:262][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.22-01.17.25:285][ 74]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.22-01.17.25:285][ 74]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 59
+[2024.03.22-01.17.25:285][ 74]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=59
+[2024.03.22-01.17.25:287][ 74]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=59
+[2024.03.22-01.17.25:290][ 74]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.22-01.17.25:293][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.03.22-01.17.25:318][ 74]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.17.25:349][ 75]LogPlayLevel: Display: Destroying online subsystem :Context_80
+[2024.03.22-01.17.25:362][ 75]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.19.19:444][108]LogHttp: Warning: 00000AA6689E2800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B63EA7637-422D-873B-539B-9B8626B119C5%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=e77913444c60ac2867487ea227aec197%7Cc4317d4b1cea4f28802e3a8de0be4f65%7Cc786482b-db54-4f3c-834e-467a3f8abe43&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.22-01.19.19:444][108]LogHttp: Warning: 00000AA6689E2800: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.22-01.19.19:444][108]LogHttp: Warning: 00000AA6689E2800: libcurl info message cache 0 (Found bundle for host: 0xaa563960c00 [serially])
+[2024.03.22-01.19.19:444][108]LogHttp: Warning: 00000AA6689E2800: libcurl info message cache 1 (Re-using existing connection #176 with host datarouter.ol.epicgames.com)
+[2024.03.22-01.19.19:444][108]LogHttp: Warning: 00000AA6689E2800: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.81.45.253) port 443 (#176))
+[2024.03.22-01.19.19:444][108]LogHttp: Warning: 00000AA6689E2800: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.22-01.19.19:444][108]LogHttp: Warning: 00000AA6689E2800: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.22-01.19.19:444][108]LogHttp: Warning: 00000AA6689E2800: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.22-01.19.19:444][108]LogHttp: Warning: 00000AA6689E2800: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.22-01.19.19:444][108]LogHttp: Warning: 00000AA6689E2800: libcurl info message cache 7 (Closing connection 176)
+[2024.03.22-01.19.19:444][108]LogHttp: Warning: 00000AA6689E2800: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.22-01.19.19:444][108]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B63EA7637-422D-873B-539B-9B8626B119C5%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=e77913444c60ac2867487ea227aec197%7Cc4317d4b1cea4f28802e3a8de0be4f65%7Cc786482b-db54-4f3c-834e-467a3f8abe43&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.22-01.26.27:868][207]LogEditorTransaction: Undo Move Widget
+[2024.03.22-01.26.27:970][207]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.26.30:007][295]LogEditorTransaction: Undo Move Widget
+[2024.03.22-01.26.30:028][295]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.27.19:563][995]LogHttp: Warning: 00000AA663379B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B63EA7637-422D-873B-539B-9B8626B119C5%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=e77913444c60ac2867487ea227aec197%7Cc4317d4b1cea4f28802e3a8de0be4f65%7Cc786482b-db54-4f3c-834e-467a3f8abe43&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.22-01.27.19:563][995]LogHttp: Warning: 00000AA663379B00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.22-01.27.19:563][995]LogHttp: Warning: 00000AA663379B00: libcurl info message cache 0 (Found bundle for host: 0xaa563960630 [serially])
+[2024.03.22-01.27.19:563][995]LogHttp: Warning: 00000AA663379B00: libcurl info message cache 1 (Re-using existing connection #179 with host datarouter.ol.epicgames.com)
+[2024.03.22-01.27.19:563][995]LogHttp: Warning: 00000AA663379B00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.22.92.41) port 443 (#179))
+[2024.03.22-01.27.19:563][995]LogHttp: Warning: 00000AA663379B00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.22-01.27.19:563][995]LogHttp: Warning: 00000AA663379B00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.22-01.27.19:563][995]LogHttp: Warning: 00000AA663379B00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.22-01.27.19:563][995]LogHttp: Warning: 00000AA663379B00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.22-01.27.19:563][995]LogHttp: Warning: 00000AA663379B00: libcurl info message cache 7 (Closing connection 179)
+[2024.03.22-01.27.19:563][995]LogHttp: Warning: 00000AA663379B00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.22-01.27.19:563][995]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B63EA7637-422D-873B-539B-9B8626B119C5%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=e77913444c60ac2867487ea227aec197%7Cc4317d4b1cea4f28802e3a8de0be4f65%7Cc786482b-db54-4f3c-834e-467a3f8abe43&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.22-01.27.50:112][605]LogEditorTransaction: Undo Edit Size Rule
+[2024.03.22-01.27.50:204][605]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.27.51:064][631]LogEditorTransaction: Undo Move Widget
+[2024.03.22-01.27.51:113][631]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.27.52:476][698]LogEditorTransaction: Undo Add Widget
+[2024.03.22-01.27.52:498][698]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.31.19:609][591]LogHttp: Warning: 00000AA669B19B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B63EA7637-422D-873B-539B-9B8626B119C5%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=e77913444c60ac2867487ea227aec197%7Cc4317d4b1cea4f28802e3a8de0be4f65%7Cc786482b-db54-4f3c-834e-467a3f8abe43&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.22-01.31.19:609][591]LogHttp: Warning: 00000AA669B19B00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.22-01.31.19:609][591]LogHttp: Warning: 00000AA669B19B00: libcurl info message cache 0 (Found bundle for host: 0xaa563960ea0 [serially])
+[2024.03.22-01.31.19:609][591]LogHttp: Warning: 00000AA669B19B00: libcurl info message cache 1 (Re-using existing connection #180 with host datarouter.ol.epicgames.com)
+[2024.03.22-01.31.19:609][591]LogHttp: Warning: 00000AA669B19B00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.198.6.162) port 443 (#180))
+[2024.03.22-01.31.19:609][591]LogHttp: Warning: 00000AA669B19B00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.22-01.31.19:609][591]LogHttp: Warning: 00000AA669B19B00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.22-01.31.19:609][591]LogHttp: Warning: 00000AA669B19B00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.22-01.31.19:609][591]LogHttp: Warning: 00000AA669B19B00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.22-01.31.19:609][591]LogHttp: Warning: 00000AA669B19B00: libcurl info message cache 7 (Closing connection 180)
+[2024.03.22-01.31.19:609][591]LogHttp: Warning: 00000AA669B19B00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.22-01.31.19:609][591]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B63EA7637-422D-873B-539B-9B8626B119C5%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=e77913444c60ac2867487ea227aec197%7Cc4317d4b1cea4f28802e3a8de0be4f65%7Cc786482b-db54-4f3c-834e-467a3f8abe43&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.22-01.31.38:323][566]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.22-01.31.38:405][566]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/menu/pauseScene" FILE="../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Content/menu/pauseScene.uasset" SILENT=true
+[2024.03.22-01.31.38:417][566]LogSavePackage: Moving output files for package: /Game/menu/pauseScene
+[2024.03.22-01.31.38:419][566]LogSavePackage: Moving '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Saved/pauseScene89CE536C41603043D2DDEEB5E9D2C4DA.tmp' to '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Content/menu/pauseScene.uasset'
+[2024.03.22-01.31.38:432][566]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 11.9 sec)
+[2024.03.22-01.31.38:440][566]AssetCheck: New page: Asset Save: pauseScene
+[2024.03.22-01.31.38:440][566]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/menu/pauseScene.pauseScene
+[2024.03.22-01.32.24:089][915]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.03.22-01.32.24:094][915]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Gameplay/MainLevel/6/FY/WVF12XPJY3HQXJ4G25FY1C_Auto1
+[2024.03.22-01.32.24:095][915]LogSavePackage: Moving '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Saved/WVF12XPJY3HQXJ4G25FY1C_Auto12AB6D1AC4C6E06EED4CCBA9CD299738F.tmp' to '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Saved/Autosaves/Game/__ExternalActors__/Gameplay/MainLevel/6/FY/WVF12XPJY3HQXJ4G25FY1C_Auto1.uasset'
+[2024.03.22-01.32.24:097][915]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Gameplay/MainLevel/D/0N/NMXCFQU9V2PER6IL7RXN1L_Auto1
+[2024.03.22-01.32.24:098][915]LogSavePackage: Moving '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Saved/NMXCFQU9V2PER6IL7RXN1L_Auto1C86B65644C4BF66F70C8039E8A7D8442.tmp' to '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Saved/Autosaves/Game/__ExternalActors__/Gameplay/MainLevel/D/0N/NMXCFQU9V2PER6IL7RXN1L_Auto1.uasset'
+[2024.03.22-01.32.24:099][915]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Gameplay/MainLevel/B/XN/P28C7ST5P24VMKJ10Q1P5R_Auto1
+[2024.03.22-01.32.24:099][915]LogSavePackage: Moving '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Saved/P28C7ST5P24VMKJ10Q1P5R_Auto10CBCAF6D4E9D6C4AE45A4D97CEFF9B42.tmp' to '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Saved/Autosaves/Game/__ExternalActors__/Gameplay/MainLevel/B/XN/P28C7ST5P24VMKJ10Q1P5R_Auto1.uasset'
+[2024.03.22-01.32.24:101][915]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Gameplay/MainLevel' took 0.046
+[2024.03.22-01.32.24:101][915]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.046
+[2024.03.22-01.33.20:053][268]LogHttp: Warning: 00000AA65B071E00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B63EA7637-422D-873B-539B-9B8626B119C5%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=e77913444c60ac2867487ea227aec197%7Cc4317d4b1cea4f28802e3a8de0be4f65%7Cc786482b-db54-4f3c-834e-467a3f8abe43&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.22-01.33.20:053][268]LogHttp: Warning: 00000AA65B071E00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.22-01.33.20:053][268]LogHttp: Warning: 00000AA65B071E00: libcurl info message cache 0 (Found bundle for host: 0xaa563960690 [serially])
+[2024.03.22-01.33.20:053][268]LogHttp: Warning: 00000AA65B071E00: libcurl info message cache 1 (Re-using existing connection #181 with host datarouter.ol.epicgames.com)
+[2024.03.22-01.33.20:053][268]LogHttp: Warning: 00000AA65B071E00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.195.73.186) port 443 (#181))
+[2024.03.22-01.33.20:053][268]LogHttp: Warning: 00000AA65B071E00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.22-01.33.20:053][268]LogHttp: Warning: 00000AA65B071E00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.22-01.33.20:053][268]LogHttp: Warning: 00000AA65B071E00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.22-01.33.20:053][268]LogHttp: Warning: 00000AA65B071E00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.22-01.33.20:053][268]LogHttp: Warning: 00000AA65B071E00: libcurl info message cache 7 (Closing connection 181)
+[2024.03.22-01.33.20:053][268]LogHttp: Warning: 00000AA65B071E00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.22-01.33.20:053][268]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B63EA7637-422D-873B-539B-9B8626B119C5%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=e77913444c60ac2867487ea227aec197%7Cc4317d4b1cea4f28802e3a8de0be4f65%7Cc786482b-db54-4f3c-834e-467a3f8abe43&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.22-01.36.05:572][460]LogSlate: Took 0.004100 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.03.22-01.36.14:769][989]BlueprintLog: New page: Compile pauseScene
+[2024.03.22-01.36.14:774][989]LogBlueprint: Warning: [AssetLog] C:\Users\raiab\STUFF\PENN\SPRING2024\CIS5680\GAME\Midwest_Mayhem\Content\menu\pauseScene.uasset: [Compiler] On Clicked (power-up1_3)  does not have a valid matching component!
+[2024.03.22-01.36.14:824][989]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.03.22-01.36.19:885][241]LogHttp: Warning: 00000AA6682FAF00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B63EA7637-422D-873B-539B-9B8626B119C5%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=e77913444c60ac2867487ea227aec197%7Cc4317d4b1cea4f28802e3a8de0be4f65%7Cc786482b-db54-4f3c-834e-467a3f8abe43&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.22-01.36.19:885][241]LogHttp: Warning: 00000AA6682FAF00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.22-01.36.19:885][241]LogHttp: Warning: 00000AA6682FAF00: libcurl info message cache 0 (Found bundle for host: 0xaa5639606f0 [serially])
+[2024.03.22-01.36.19:885][241]LogHttp: Warning: 00000AA6682FAF00: libcurl info message cache 1 (Re-using existing connection #182 with host datarouter.ol.epicgames.com)
+[2024.03.22-01.36.19:885][241]LogHttp: Warning: 00000AA6682FAF00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.202.73.8) port 443 (#182))
+[2024.03.22-01.36.19:885][241]LogHttp: Warning: 00000AA6682FAF00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.22-01.36.19:885][241]LogHttp: Warning: 00000AA6682FAF00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.22-01.36.19:885][241]LogHttp: Warning: 00000AA6682FAF00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.22-01.36.19:885][241]LogHttp: Warning: 00000AA6682FAF00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.22-01.36.19:885][241]LogHttp: Warning: 00000AA6682FAF00: libcurl info message cache 7 (Closing connection 182)
+[2024.03.22-01.36.19:885][241]LogHttp: Warning: 00000AA6682FAF00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.22-01.36.19:885][241]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B63EA7637-422D-873B-539B-9B8626B119C5%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=e77913444c60ac2867487ea227aec197%7Cc4317d4b1cea4f28802e3a8de0be4f65%7Cc786482b-db54-4f3c-834e-467a3f8abe43&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.22-01.36.41:418][424]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.03.22-01.36.41:556][424]LogContentBrowser: Creating deferred item: NewFolder
+[2024.03.22-01.36.41:573][425]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.03.22-01.36.44:049][556]LogContentBrowser: Attempting asset rename: NewFolder -> img
+[2024.03.22-01.36.44:050][556]LogContentBrowser: End creating deferred item NewFolder
+[2024.03.22-01.36.53:255][863]LogInterchangeEngine: [Pending] Importing
+[2024.03.22-01.36.53:256][863]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/raiab/...IS5680/GAME/imgarmor-v0.png]
+[2024.03.22-01.36.53:338][864]LogTexture: Display: Building textures: /Game/menu/img/armor-v0.armor-v0 (BGRA8, 782x784 x1x1x1) (Required Memory Estimate: 17.992867 MB), EncodeSpeed: Fast
+[2024.03.22-01.36.53:346][864]LogInterchangeEngine: [Pending] Importing
+[2024.03.22-01.36.53:353][864]LogInterchangeEngine: [Success] Import Done
+[2024.03.22-01.36.53:415][865]LogInterchangeEngine: [Success] Import Done
+[2024.03.22-01.37.06:320][561]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.22-01.37.06:408][561]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/menu/pauseScene" FILE="../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Content/menu/pauseScene.uasset" SILENT=true
+[2024.03.22-01.37.06:421][561]LogSavePackage: Moving output files for package: /Game/menu/pauseScene
+[2024.03.22-01.37.06:422][561]LogSavePackage: Moving '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Saved/pauseScene20CCEE1C4253D4C7BA9207B127D06F0F.tmp' to '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Content/menu/pauseScene.uasset'
+[2024.03.22-01.37.06:435][561]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 12.0 sec)
+[2024.03.22-01.37.06:443][561]AssetCheck: New page: Asset Save: pauseScene
+[2024.03.22-01.37.06:443][561]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/menu/pauseScene.pauseScene
+[2024.03.22-01.37.09:247][705]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.22-01.37.09:255][705]LogContentBundle: [MainLevel(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.22-01.37.09:256][705]LogWorldPartition: Display: GenerateStreaming started...
+[2024.03.22-01.37.09:256][705]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.03.22-01.37.09:256][705]LogWorldPartition: Display: GetPartitionedActors took 10 us (total: 527 us)
+[2024.03.22-01.37.09:256][705]LogWorldPartition: Display: GenerateStreaming took 117 us (total: 11 ms)
+[2024.03.22-01.37.09:256][705]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.03.22-01.37.09:258][705]LogPlayLevel: [PlayLevel] Compiling pauseScene before play...
+[2024.03.22-01.37.09:260][705]LogBlueprint: Warning: [AssetLog] C:\Users\raiab\STUFF\PENN\SPRING2024\CIS5680\GAME\Midwest_Mayhem\Content\menu\pauseScene.uasset: [Compiler] On Clicked (power-up1_3)  does not have a valid matching component!
+[2024.03.22-01.37.09:329][705]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.03.22-01.37.09:332][705]LogPlayLevel: PlayLevel: Blueprint regeneration took 76 ms (1 blueprints)
+[2024.03.22-01.37.09:332][705]PIE: New page: PIE session: MainLevel (Mar 21, 2024, 5:37:09 PM)
+[2024.03.22-01.37.09:332][705]LogPlayLevel: Creating play world package: /Game/Gameplay/UEDPIE_0_MainLevel
+[2024.03.22-01.37.09:335][705]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002814s)
+[2024.03.22-01.37.09:335][705]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Gameplay/MainLevel.MainLevel to /Game/Gameplay/UEDPIE_0_MainLevel.MainLevel (0.002843s)
+[2024.03.22-01.37.09:335][705]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.22-01.37.09:335][705]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.22-01.37.09:335][705]LogAIModule: Creating AISystem for world MainLevel
+[2024.03.22-01.37.09:336][705]LogWorldPartition: ULevel::OnLevelLoaded(MainLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.22-01.37.09:336][705]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.22-01.37.09:336][705]LogWorldPartition: UWorldPartition::Initialize(Asset=MainLevel, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.03.22-01.37.09:336][705]LogContentBundle: [MainLevel(Standalone)] Creating new contrainer.
+[2024.03.22-01.37.09:336][705]LogWorldPartition: Display: WorldPartition initialize took 560 us (total: 632 ms)
+[2024.03.22-01.37.09:336][705]LogPlayLevel: PIE: World Init took: (0.001431s)
+[2024.03.22-01.37.09:359][705]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.03.22-01.37.09:361][705]LogAudio: Display: Creating Audio Device:                 Id: 60, Scope: Unique, Realtime: True
+[2024.03.22-01.37.09:361][705]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.22-01.37.09:361][705]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.22-01.37.09:361][705]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.22-01.37.09:361][705]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.22-01.37.09:361][705]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.22-01.37.09:361][705]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.03.22-01.37.09:361][705]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.22-01.37.09:361][705]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.22-01.37.09:361][705]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.22-01.37.09:361][705]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.22-01.37.09:361][705]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.22-01.37.09:363][705]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.22-01.37.09:391][705]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.22-01.37.09:391][705]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.22-01.37.09:391][705]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.22-01.37.09:391][705]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.22-01.37.09:392][705]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=60
+[2024.03.22-01.37.09:392][705]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=60
+[2024.03.22-01.37.09:394][705]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=60
+[2024.03.22-01.37.09:394][705]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=60
+[2024.03.22-01.37.09:394][705]LogInit: FAudioDevice initialized with ID 60.
+[2024.03.22-01.37.09:394][705]LogAudio: Display: Audio Device (ID: 60) registered with world 'MainLevel'.
+[2024.03.22-01.37.09:394][705]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 60
+[2024.03.22-01.37.09:396][705]LogLoad: Game class is 'GameModeBase'
+[2024.03.22-01.37.09:396][705]LogWorld: Bringing World /Game/Gameplay/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2024.03.21-21.37.09
+[2024.03.22-01.37.09:396][705]LogWorld: Bringing up level for play took: 0.000672
+[2024.03.22-01.37.09:399][705]LogOnline: OSS: Created online subsystem instance for: :Context_81
+[2024.03.22-01.37.09:399][705]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(1), CellsToLoad(0), CellsToUnload(0)
+[2024.03.22-01.37.09:399][705]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=570.000 Y=0.000 Z=133.000,P=-0.000000 Y=-90.000000 R=0.000000
+[2024.03.22-01.37.09:404][705]LogScript: Warning: Script Msg: Global_C_UAID_18C04D32C2B894E301_1265625921 SpawnObstacle_Event SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2024.03.22-01.37.09:404][705]LogScript: Warning: Script Msg called by: Global_C /Memory/UEDPIE_0_MainLevel_MainGrid_L0_X0_Y0.MainLevel:PersistentLevel.Global_C_UAID_18C04D32C2B894E301_1265625921
+[2024.03.22-01.37.09:404][705]LogBlueprintUserMessages: 40.0
+[2024.03.22-01.37.09:404][705]PIE: Server logged in
+[2024.03.22-01.37.09:405][705]PIE: Play in editor total start time 0.15 seconds.
+[2024.03.22-01.37.09:423][705]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.37.09:424][705]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.37.09:424][705]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.37.09:424][705]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.37.09:425][705]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.37.09:425][705]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.37.09:425][705]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.37.09:426][705]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.37.09:426][705]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.37.09:426][705]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.37.09:427][705]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.37.09:427][705]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.37.09:428][705]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.37.09:428][705]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.37.09:596][706]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.37.09:596][706]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.37.09:596][706]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.37.09:596][706]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.37.09:596][706]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.37.09:598][706]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.37.09:598][706]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.37.09:598][706]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.37.09:599][706]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.37.09:599][706]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.37.09:600][706]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.37.09:600][706]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.37.09:600][706]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.37.09:601][706]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.37.10:185][734]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.03.22-01.37.10:185][734]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.03.22-01.37.10:185][734]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.03.22-01.37.13:414][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.22-01.37.13:414][887]LogWorld: BeginTearingDown for /Game/Gameplay/UEDPIE_0_MainLevel
+[2024.03.22-01.37.13:414][887]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2024.03.22-01.37.13:414][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.22-01.37.13:414][887]LogContentBundle: [MainLevel(Standalone)] Deleting container.
+[2024.03.22-01.37.13:418][887]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.22-01.37.13:423][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.22-01.37.13:451][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.22-01.37.13:451][887]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 60
+[2024.03.22-01.37.13:451][887]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=60
+[2024.03.22-01.37.13:453][887]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=60
+[2024.03.22-01.37.13:459][887]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.03.22-01.37.13:484][887]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.37.13:514][888]LogPlayLevel: Display: Destroying online subsystem :Context_81
+[2024.03.22-01.37.13:527][888]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.22-01.37.16:949][ 63]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.22-01.37.17:026][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/menu/pauseScene" FILE="../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Content/menu/pauseScene.uasset" SILENT=true
+[2024.03.22-01.37.17:039][ 63]LogSavePackage: Moving output files for package: /Game/menu/pauseScene
+[2024.03.22-01.37.17:040][ 63]LogSavePackage: Moving '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Saved/pauseSceneC880852040F1B5049FFAE9B7B5D61B96.tmp' to '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Content/menu/pauseScene.uasset'
+[2024.03.22-01.37.17:055][ 63]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 12.1 sec)
+[2024.03.22-01.37.17:060][ 63]AssetCheck: New page: Asset Save: pauseScene
+[2024.03.22-01.37.17:060][ 63]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/menu/pauseScene.pauseScene
+[2024.03.22-01.39.20:270][783]LogHttp: Warning: 00000AA65E62AA00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B63EA7637-422D-873B-539B-9B8626B119C5%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=e77913444c60ac2867487ea227aec197%7Cc4317d4b1cea4f28802e3a8de0be4f65%7Cc786482b-db54-4f3c-834e-467a3f8abe43&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.22-01.39.20:270][783]LogHttp: Warning: 00000AA65E62AA00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.22-01.39.20:270][783]LogHttp: Warning: 00000AA65E62AA00: libcurl info message cache 0 (Found bundle for host: 0xaa563960b40 [serially])
+[2024.03.22-01.39.20:270][783]LogHttp: Warning: 00000AA65E62AA00: libcurl info message cache 1 (Re-using existing connection #183 with host datarouter.ol.epicgames.com)
+[2024.03.22-01.39.20:270][783]LogHttp: Warning: 00000AA65E62AA00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.81.45.253) port 443 (#183))
+[2024.03.22-01.39.20:270][783]LogHttp: Warning: 00000AA65E62AA00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.22-01.39.20:270][783]LogHttp: Warning: 00000AA65E62AA00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.22-01.39.20:270][783]LogHttp: Warning: 00000AA65E62AA00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.22-01.39.20:270][783]LogHttp: Warning: 00000AA65E62AA00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.22-01.39.20:270][783]LogHttp: Warning: 00000AA65E62AA00: libcurl info message cache 7 (Closing connection 183)
+[2024.03.22-01.39.20:270][783]LogHttp: Warning: 00000AA65E62AA00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.22-01.39.20:270][783]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B63EA7637-422D-873B-539B-9B8626B119C5%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=e77913444c60ac2867487ea227aec197%7Cc4317d4b1cea4f28802e3a8de0be4f65%7Cc786482b-db54-4f3c-834e-467a3f8abe43&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.22-01.40.13:601][942]LogWindows: LaunchFileInExternalEditor C:/Program Files/Epic Games/UE_5.2/Engine/Source/Runtime/UMG/Public/Components/Image.h 
+[2024.03.22-01.40.13:698][942]LogWindows: Launch application code for C:/Program Files/Epic Games/UE_5.2/Engine/Source/Runtime/UMG/Public/Components/Image.h : 42
+[2024.03.22-01.40.13:698][942]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2024.03.22-01.40.13:706][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:706][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:706][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:706][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:706][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:706][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:706][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:706][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:706][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:706][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:706][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:706][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:706][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:707][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:707][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:707][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:707][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:707][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:707][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:707][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:707][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:707][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:707][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:707][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:707][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:707][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:708][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:708][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:708][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:708][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:708][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:708][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:708][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:708][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:708][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:708][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:708][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:708][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:708][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:708][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:708][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:708][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:709][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:709][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:709][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:709][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:709][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:709][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:709][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:709][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:709][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:709][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:709][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:709][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:709][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:709][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:709][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:709][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:709][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:709][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:709][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:709][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:709][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:709][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:709][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:710][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:710][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:710][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:710][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:710][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:710][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:710][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:710][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:710][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:710][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:710][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:710][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:710][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:710][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:710][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:710][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:710][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:710][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:710][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:710][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:710][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:710][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:710][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:711][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:711][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:711][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:711][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:711][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:711][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:711][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:711][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:711][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:711][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:711][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:711][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:711][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:711][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:711][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:711][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:711][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:711][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:711][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:711][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:711][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:711][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:711][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:711][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:712][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:712][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:712][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:712][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:712][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:712][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:717][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:717][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:721][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:723][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:723][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:739][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:739][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:740][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:742][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:750][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:750][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:750][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:750][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:752][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:767][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:781][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:781][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:798][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:805][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:824][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:824][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:825][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:827][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:839][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:901][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:901][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:901][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:905][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:922][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:922][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:922][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:922][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:922][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:922][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:922][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:922][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:922][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:922][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:922][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:922][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:922][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:923][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:923][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:923][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:923][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:923][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:923][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:923][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:923][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:923][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:923][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:923][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:923][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:923][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:923][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:923][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:923][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:923][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:923][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:923][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:923][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:923][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:923][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:923][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:924][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:924][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:924][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:924][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:924][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:924][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:924][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:924][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:924][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:924][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:924][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:924][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:924][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:924][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:924][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:924][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:924][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:924][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:924][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:924][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:924][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:924][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:924][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:925][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:925][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:925][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:925][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:925][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:925][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:925][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:925][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:925][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:925][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:925][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:925][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:925][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:925][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:925][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:925][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:925][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:925][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:925][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:925][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:925][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:925][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:925][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:925][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:925][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:926][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:926][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:926][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:926][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:926][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:926][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:926][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:926][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:926][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:926][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:926][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:926][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:926][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:926][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:926][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:926][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:926][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:926][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:926][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:926][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:926][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:926][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:927][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:927][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:927][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:927][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:927][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:927][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:927][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:927][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:927][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:927][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:927][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:927][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:931][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:931][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:932][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:934][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:934][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:946][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:946][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:947][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:948][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:952][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:952][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:952][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:952][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:954][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:964][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:971][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:971][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:981][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:987][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:999][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.13:999][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:000][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:001][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:008][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:048][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:048][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:048][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:051][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:068][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:068][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:068][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:068][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:068][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:068][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:068][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:068][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:068][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:068][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:068][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:068][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:068][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:068][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:068][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:068][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:068][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:068][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:068][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:068][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:069][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:069][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:069][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:069][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:069][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:069][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:069][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:069][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:069][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:069][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:069][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:069][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:069][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:069][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:069][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:069][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:069][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:069][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:069][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:069][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:069][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:069][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:069][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:069][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:070][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:070][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:070][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:070][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:070][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:070][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:070][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:070][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:070][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:070][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:070][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:070][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:070][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:070][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:070][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:070][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:070][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:070][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:070][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:070][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:070][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:070][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:070][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:070][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:071][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:071][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:071][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:071][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:071][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:071][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:071][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:071][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:071][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:071][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:071][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:071][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:071][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:071][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:071][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:071][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:071][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:071][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:071][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:071][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:071][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:071][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:071][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:071][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:072][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:072][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:072][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:072][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:072][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:072][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:072][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:072][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:072][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:072][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:072][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:072][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:072][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:072][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:072][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:072][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:072][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:072][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:072][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:072][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:072][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:072][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:072][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:073][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:073][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:073][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:078][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:078][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:079][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:080][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:080][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:095][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:095][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:096][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:097][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:102][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:102][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:102][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:103][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:104][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:114][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:123][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:123][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:134][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:141][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:153][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:153][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:154][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:155][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:164][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:210][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:210][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:210][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.40.14:212][942]LogVSAccessor: Warning: Couldn't access module table
+[2024.03.22-01.42.20:607][323]LogHttp: Warning: 00000AA65E620F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B63EA7637-422D-873B-539B-9B8626B119C5%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=e77913444c60ac2867487ea227aec197%7Cc4317d4b1cea4f28802e3a8de0be4f65%7Cc786482b-db54-4f3c-834e-467a3f8abe43&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.22-01.42.20:607][323]LogHttp: Warning: 00000AA65E620F00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.22-01.42.20:607][323]LogHttp: Warning: 00000AA65E620F00: libcurl info message cache 0 (Found bundle for host: 0xaa563960d80 [serially])
+[2024.03.22-01.42.20:607][323]LogHttp: Warning: 00000AA65E620F00: libcurl info message cache 1 (Re-using existing connection #184 with host datarouter.ol.epicgames.com)
+[2024.03.22-01.42.20:607][323]LogHttp: Warning: 00000AA65E620F00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.221.151.99) port 443 (#184))
+[2024.03.22-01.42.20:607][323]LogHttp: Warning: 00000AA65E620F00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.22-01.42.20:607][323]LogHttp: Warning: 00000AA65E620F00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.22-01.42.20:607][323]LogHttp: Warning: 00000AA65E620F00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.22-01.42.20:607][323]LogHttp: Warning: 00000AA65E620F00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.22-01.42.20:607][323]LogHttp: Warning: 00000AA65E620F00: libcurl info message cache 7 (Closing connection 184)
+[2024.03.22-01.42.20:607][323]LogHttp: Warning: 00000AA65E620F00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.22-01.42.20:607][323]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B63EA7637-422D-873B-539B-9B8626B119C5%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=e77913444c60ac2867487ea227aec197%7Cc4317d4b1cea4f28802e3a8de0be4f65%7Cc786482b-db54-4f3c-834e-467a3f8abe43&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.22-01.42.28:687][346]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.03.22-01.42.28:691][346]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Gameplay/MainLevel' took 0.035
+[2024.03.22-01.42.28:691][346]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/menu/img/armor-v0] ([1] browsable assets)...
+[2024.03.22-01.42.28:694][346]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/menu/img/armor-v0.armor-v0]
+[2024.03.22-01.42.28:694][346]OBJ SavePackage: Finished generating thumbnails for package [/Game/menu/img/armor-v0]
+[2024.03.22-01.42.28:699][346]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/menu/img/armor-v0_Auto2
+[2024.03.22-01.42.28:699][346]LogSavePackage: Moving '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Saved/armor-v0_Auto2430E9B024AACDF92524A2295CA2CC649.tmp' to '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Saved/Autosaves/Game/menu/img/armor-v0_Auto2.uasset'
+[2024.03.22-01.42.28:700][346]LogFileHelpers: Auto-saving content packages took 0.009
+[2024.03.22-01.49.17:886][573]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [4999ms] waiting for h/w. InstanceID=1
+[2024.03.22-01.49.22:886][574]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [4999ms] waiting for h/w. InstanceID=1
+[2024.03.22-03.25.56:528][574]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [5793649ms] waiting for h/w. InstanceID=1
+[2024.03.22-03.25.58:758][574]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=1512
+[2024.03.22-03.25.59:127][576]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{ab340377-0921-4722-9497-1f7e1a27ed93}, Name=Speakers (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=140.48
+[2024.03.22-03.25.59:128][576]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.03.22-03.25.59:133][576]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.03.22-03.29.58:168][294]LogHttp: Warning: 00000AA668E8B400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B63EA7637-422D-873B-539B-9B8626B119C5%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=e77913444c60ac2867487ea227aec197%7Cc4317d4b1cea4f28802e3a8de0be4f65%7Cc786482b-db54-4f3c-834e-467a3f8abe43&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.22-03.29.58:169][294]LogHttp: Warning: 00000AA668E8B400: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.22-03.29.58:169][294]LogHttp: Warning: 00000AA668E8B400: libcurl info message cache 0 (Found bundle for host: 0xaa5639602a0 [serially])
+[2024.03.22-03.29.58:169][294]LogHttp: Warning: 00000AA668E8B400: libcurl info message cache 1 (Re-using existing connection #190 with host datarouter.ol.epicgames.com)
+[2024.03.22-03.29.58:169][294]LogHttp: Warning: 00000AA668E8B400: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.237.233.119) port 443 (#190))
+[2024.03.22-03.29.58:169][294]LogHttp: Warning: 00000AA668E8B400: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.22-03.29.58:169][294]LogHttp: Warning: 00000AA668E8B400: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.22-03.29.58:169][294]LogHttp: Warning: 00000AA668E8B400: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.22-03.29.58:169][294]LogHttp: Warning: 00000AA668E8B400: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.22-03.29.58:169][294]LogHttp: Warning: 00000AA668E8B400: libcurl info message cache 7 (Closing connection 190)
+[2024.03.22-03.29.58:169][294]LogHttp: Warning: 00000AA668E8B400: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.22-03.29.58:169][294]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B63EA7637-422D-873B-539B-9B8626B119C5%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=e77913444c60ac2867487ea227aec197%7Cc4317d4b1cea4f28802e3a8de0be4f65%7Cc786482b-db54-4f3c-834e-467a3f8abe43&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.22-03.34.58:201][194]LogHttp: Warning: 00000AA668E81E00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B63EA7637-422D-873B-539B-9B8626B119C5%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=e77913444c60ac2867487ea227aec197%7Cc4317d4b1cea4f28802e3a8de0be4f65%7Cc786482b-db54-4f3c-834e-467a3f8abe43&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.22-03.34.58:201][194]LogHttp: Warning: 00000AA668E81E00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.22-03.34.58:201][194]LogHttp: Warning: 00000AA668E81E00: libcurl info message cache 0 (Found bundle for host: 0xaa563960480 [serially])
+[2024.03.22-03.34.58:201][194]LogHttp: Warning: 00000AA668E81E00: libcurl info message cache 1 (Re-using existing connection #191 with host datarouter.ol.epicgames.com)
+[2024.03.22-03.34.58:201][194]LogHttp: Warning: 00000AA668E81E00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.92.166.11) port 443 (#191))
+[2024.03.22-03.34.58:201][194]LogHttp: Warning: 00000AA668E81E00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.22-03.34.58:201][194]LogHttp: Warning: 00000AA668E81E00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.22-03.34.58:201][194]LogHttp: Warning: 00000AA668E81E00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.22-03.34.58:201][194]LogHttp: Warning: 00000AA668E81E00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.22-03.34.58:201][194]LogHttp: Warning: 00000AA668E81E00: libcurl info message cache 7 (Closing connection 191)
+[2024.03.22-03.34.58:201][194]LogHttp: Warning: 00000AA668E81E00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.22-03.34.58:201][194]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B63EA7637-422D-873B-539B-9B8626B119C5%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=e77913444c60ac2867487ea227aec197%7Cc4317d4b1cea4f28802e3a8de0be4f65%7Cc786482b-db54-4f3c-834e-467a3f8abe43&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.22-03.39.58:235][ 94]LogHttp: Warning: 00000AA668E80A00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B63EA7637-422D-873B-539B-9B8626B119C5%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=e77913444c60ac2867487ea227aec197%7Cc4317d4b1cea4f28802e3a8de0be4f65%7Cc786482b-db54-4f3c-834e-467a3f8abe43&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.22-03.39.58:235][ 94]LogHttp: Warning: 00000AA668E80A00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.22-03.39.58:235][ 94]LogHttp: Warning: 00000AA668E80A00: libcurl info message cache 0 (Found bundle for host: 0xaa563960b40 [serially])
+[2024.03.22-03.39.58:235][ 94]LogHttp: Warning: 00000AA668E80A00: libcurl info message cache 1 (Re-using existing connection #192 with host datarouter.ol.epicgames.com)
+[2024.03.22-03.39.58:235][ 94]LogHttp: Warning: 00000AA668E80A00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.220.113.241) port 443 (#192))
+[2024.03.22-03.39.58:235][ 94]LogHttp: Warning: 00000AA668E80A00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.22-03.39.58:236][ 94]LogHttp: Warning: 00000AA668E80A00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.22-03.39.58:236][ 94]LogHttp: Warning: 00000AA668E80A00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.22-03.39.58:236][ 94]LogHttp: Warning: 00000AA668E80A00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.22-03.39.58:236][ 94]LogHttp: Warning: 00000AA668E80A00: libcurl info message cache 7 (Closing connection 192)
+[2024.03.22-03.39.58:236][ 94]LogHttp: Warning: 00000AA668E80A00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.22-03.39.58:236][ 94]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B63EA7637-422D-873B-539B-9B8626B119C5%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=e77913444c60ac2867487ea227aec197%7Cc4317d4b1cea4f28802e3a8de0be4f65%7Cc786482b-db54-4f3c-834e-467a3f8abe43&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.22-03.42.58:282][634]LogHttp: Warning: 00000AA668E89100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B63EA7637-422D-873B-539B-9B8626B119C5%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=e77913444c60ac2867487ea227aec197%7Cc4317d4b1cea4f28802e3a8de0be4f65%7Cc786482b-db54-4f3c-834e-467a3f8abe43&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.22-03.42.58:282][634]LogHttp: Warning: 00000AA668E89100: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.22-03.42.58:282][634]LogHttp: Warning: 00000AA668E89100: libcurl info message cache 0 (Found bundle for host: 0xaa563960a20 [serially])
+[2024.03.22-03.42.58:282][634]LogHttp: Warning: 00000AA668E89100: libcurl info message cache 1 (Re-using existing connection #193 with host datarouter.ol.epicgames.com)
+[2024.03.22-03.42.58:282][634]LogHttp: Warning: 00000AA668E89100: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.214.142.119) port 443 (#193))
+[2024.03.22-03.42.58:282][634]LogHttp: Warning: 00000AA668E89100: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.22-03.42.58:282][634]LogHttp: Warning: 00000AA668E89100: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.22-03.42.58:282][634]LogHttp: Warning: 00000AA668E89100: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.22-03.42.58:282][634]LogHttp: Warning: 00000AA668E89100: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.22-03.42.58:282][634]LogHttp: Warning: 00000AA668E89100: libcurl info message cache 7 (Closing connection 193)
+[2024.03.22-03.42.58:282][634]LogHttp: Warning: 00000AA668E89100: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.22-03.42.58:282][634]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B63EA7637-422D-873B-539B-9B8626B119C5%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=e77913444c60ac2867487ea227aec197%7Cc4317d4b1cea4f28802e3a8de0be4f65%7Cc786482b-db54-4f3c-834e-467a3f8abe43&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.22-03.46.58:628][355]LogHttp: Warning: 00000AA668E8C300: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B63EA7637-422D-873B-539B-9B8626B119C5%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=e77913444c60ac2867487ea227aec197%7Cc4317d4b1cea4f28802e3a8de0be4f65%7Cc786482b-db54-4f3c-834e-467a3f8abe43&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.22-03.46.58:628][355]LogHttp: Warning: 00000AA668E8C300: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.22-03.46.58:628][355]LogHttp: Warning: 00000AA668E8C300: libcurl info message cache 0 (Found bundle for host: 0xaa5639601b0 [serially])
+[2024.03.22-03.46.58:628][355]LogHttp: Warning: 00000AA668E8C300: libcurl info message cache 1 (Re-using existing connection #195 with host datarouter.ol.epicgames.com)
+[2024.03.22-03.46.58:628][355]LogHttp: Warning: 00000AA668E8C300: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.231.20.149) port 443 (#195))
+[2024.03.22-03.46.58:628][355]LogHttp: Warning: 00000AA668E8C300: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.22-03.46.58:628][355]LogHttp: Warning: 00000AA668E8C300: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.22-03.46.58:628][355]LogHttp: Warning: 00000AA668E8C300: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.22-03.46.58:628][355]LogHttp: Warning: 00000AA668E8C300: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.22-03.46.58:628][355]LogHttp: Warning: 00000AA668E8C300: libcurl info message cache 7 (Closing connection 195)
+[2024.03.22-03.46.58:628][355]LogHttp: Warning: 00000AA668E8C300: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.22-03.46.58:628][355]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B63EA7637-422D-873B-539B-9B8626B119C5%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=e77913444c60ac2867487ea227aec197%7Cc4317d4b1cea4f28802e3a8de0be4f65%7Cc786482b-db54-4f3c-834e-467a3f8abe43&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.22-03.50.58:656][ 75]LogHttp: Warning: 00000AA668E87300: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B63EA7637-422D-873B-539B-9B8626B119C5%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=e77913444c60ac2867487ea227aec197%7Cc4317d4b1cea4f28802e3a8de0be4f65%7Cc786482b-db54-4f3c-834e-467a3f8abe43&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.22-03.50.58:656][ 75]LogHttp: Warning: 00000AA668E87300: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.22-03.50.58:656][ 75]LogHttp: Warning: 00000AA668E87300: libcurl info message cache 0 (Found bundle for host: 0xaa563960870 [serially])
+[2024.03.22-03.50.58:656][ 75]LogHttp: Warning: 00000AA668E87300: libcurl info message cache 1 (Re-using existing connection #196 with host datarouter.ol.epicgames.com)
+[2024.03.22-03.50.58:656][ 75]LogHttp: Warning: 00000AA668E87300: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.199.69.120) port 443 (#196))
+[2024.03.22-03.50.58:656][ 75]LogHttp: Warning: 00000AA668E87300: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.22-03.50.58:656][ 75]LogHttp: Warning: 00000AA668E87300: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.22-03.50.58:656][ 75]LogHttp: Warning: 00000AA668E87300: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.22-03.50.58:656][ 75]LogHttp: Warning: 00000AA668E87300: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.22-03.50.58:656][ 75]LogHttp: Warning: 00000AA668E87300: libcurl info message cache 7 (Closing connection 196)
+[2024.03.22-03.50.58:656][ 75]LogHttp: Warning: 00000AA668E87300: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.22-03.50.58:656][ 75]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B63EA7637-422D-873B-539B-9B8626B119C5%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=e77913444c60ac2867487ea227aec197%7Cc4317d4b1cea4f28802e3a8de0be4f65%7Cc786482b-db54-4f3c-834e-467a3f8abe43&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.22-03.53.18:044][493]LogDerivedDataCache: C:/Users/raiab/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:12.104 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 6579 files in 8444 folders with total size 3571 MiB.
+[2024.03.22-03.53.58:676][615]LogHttp: Warning: 00000AA668E89100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B63EA7637-422D-873B-539B-9B8626B119C5%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=e77913444c60ac2867487ea227aec197%7Cc4317d4b1cea4f28802e3a8de0be4f65%7Cc786482b-db54-4f3c-834e-467a3f8abe43&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.22-03.53.58:676][615]LogHttp: Warning: 00000AA668E89100: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.22-03.53.58:676][615]LogHttp: Warning: 00000AA668E89100: libcurl info message cache 0 (Found bundle for host: 0xaa563960e70 [serially])
+[2024.03.22-03.53.58:676][615]LogHttp: Warning: 00000AA668E89100: libcurl info message cache 1 (Re-using existing connection #197 with host datarouter.ol.epicgames.com)
+[2024.03.22-03.53.58:676][615]LogHttp: Warning: 00000AA668E89100: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.226.210.153) port 443 (#197))
+[2024.03.22-03.53.58:676][615]LogHttp: Warning: 00000AA668E89100: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.22-03.53.58:676][615]LogHttp: Warning: 00000AA668E89100: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.22-03.53.58:676][615]LogHttp: Warning: 00000AA668E89100: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.22-03.53.58:676][615]LogHttp: Warning: 00000AA668E89100: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.22-03.53.58:676][615]LogHttp: Warning: 00000AA668E89100: libcurl info message cache 7 (Closing connection 197)
+[2024.03.22-03.53.58:676][615]LogHttp: Warning: 00000AA668E89100: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.22-03.53.58:676][615]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B63EA7637-422D-873B-539B-9B8626B119C5%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=e77913444c60ac2867487ea227aec197%7Cc4317d4b1cea4f28802e3a8de0be4f65%7Cc786482b-db54-4f3c-834e-467a3f8abe43&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.22-03.58.58:723][515]LogHttp: Warning: 00000AA668E8D700: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B63EA7637-422D-873B-539B-9B8626B119C5%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=e77913444c60ac2867487ea227aec197%7Cc4317d4b1cea4f28802e3a8de0be4f65%7Cc786482b-db54-4f3c-834e-467a3f8abe43&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.22-03.58.58:723][515]LogHttp: Warning: 00000AA668E8D700: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.22-03.58.58:723][515]LogHttp: Warning: 00000AA668E8D700: libcurl info message cache 0 (Found bundle for host: 0xaa563960540 [serially])
+[2024.03.22-03.58.58:723][515]LogHttp: Warning: 00000AA668E8D700: libcurl info message cache 1 (Re-using existing connection #198 with host datarouter.ol.epicgames.com)
+[2024.03.22-03.58.58:723][515]LogHttp: Warning: 00000AA668E8D700: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (23.20.216.3) port 443 (#198))
+[2024.03.22-03.58.58:723][515]LogHttp: Warning: 00000AA668E8D700: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.22-03.58.58:723][515]LogHttp: Warning: 00000AA668E8D700: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.22-03.58.58:723][515]LogHttp: Warning: 00000AA668E8D700: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.22-03.58.58:723][515]LogHttp: Warning: 00000AA668E8D700: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.22-03.58.58:723][515]LogHttp: Warning: 00000AA668E8D700: libcurl info message cache 7 (Closing connection 198)
+[2024.03.22-03.58.58:723][515]LogHttp: Warning: 00000AA668E8D700: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.22-03.58.58:723][515]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B63EA7637-422D-873B-539B-9B8626B119C5%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=e77913444c60ac2867487ea227aec197%7Cc4317d4b1cea4f28802e3a8de0be4f65%7Cc786482b-db54-4f3c-834e-467a3f8abe43&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.22-04.01.58:744][ 55]LogHttp: Warning: 00000AA668E87300: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B63EA7637-422D-873B-539B-9B8626B119C5%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=e77913444c60ac2867487ea227aec197%7Cc4317d4b1cea4f28802e3a8de0be4f65%7Cc786482b-db54-4f3c-834e-467a3f8abe43&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.22-04.01.58:744][ 55]LogHttp: Warning: 00000AA668E87300: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.22-04.01.58:744][ 55]LogHttp: Warning: 00000AA668E87300: libcurl info message cache 0 (Found bundle for host: 0xaa5639603c0 [serially])
+[2024.03.22-04.01.58:744][ 55]LogHttp: Warning: 00000AA668E87300: libcurl info message cache 1 (Re-using existing connection #199 with host datarouter.ol.epicgames.com)
+[2024.03.22-04.01.58:744][ 55]LogHttp: Warning: 00000AA668E87300: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (18.210.202.196) port 443 (#199))
+[2024.03.22-04.01.58:744][ 55]LogHttp: Warning: 00000AA668E87300: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.22-04.01.58:744][ 55]LogHttp: Warning: 00000AA668E87300: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.22-04.01.58:744][ 55]LogHttp: Warning: 00000AA668E87300: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.22-04.01.58:744][ 55]LogHttp: Warning: 00000AA668E87300: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.22-04.01.58:744][ 55]LogHttp: Warning: 00000AA668E87300: libcurl info message cache 7 (Closing connection 199)
+[2024.03.22-04.01.58:744][ 55]LogHttp: Warning: 00000AA668E87300: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.22-04.01.58:744][ 55]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B63EA7637-422D-873B-539B-9B8626B119C5%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=e77913444c60ac2867487ea227aec197%7Cc4317d4b1cea4f28802e3a8de0be4f65%7Cc786482b-db54-4f3c-834e-467a3f8abe43&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.22-04.05.58:770][775]LogHttp: Warning: 00000AA668E81E00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B63EA7637-422D-873B-539B-9B8626B119C5%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=e77913444c60ac2867487ea227aec197%7Cc4317d4b1cea4f28802e3a8de0be4f65%7Cc786482b-db54-4f3c-834e-467a3f8abe43&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.22-04.05.58:770][775]LogHttp: Warning: 00000AA668E81E00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.22-04.05.58:770][775]LogHttp: Warning: 00000AA668E81E00: libcurl info message cache 0 (Found bundle for host: 0xaa563960870 [serially])
+[2024.03.22-04.05.58:770][775]LogHttp: Warning: 00000AA668E81E00: libcurl info message cache 1 (Re-using existing connection #200 with host datarouter.ol.epicgames.com)
+[2024.03.22-04.05.58:770][775]LogHttp: Warning: 00000AA668E81E00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.2.147.142) port 443 (#200))
+[2024.03.22-04.05.58:770][775]LogHttp: Warning: 00000AA668E81E00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.22-04.05.58:770][775]LogHttp: Warning: 00000AA668E81E00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.22-04.05.58:770][775]LogHttp: Warning: 00000AA668E81E00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.22-04.05.58:770][775]LogHttp: Warning: 00000AA668E81E00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.22-04.05.58:770][775]LogHttp: Warning: 00000AA668E81E00: libcurl info message cache 7 (Closing connection 200)
+[2024.03.22-04.05.58:770][775]LogHttp: Warning: 00000AA668E81E00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.22-04.05.58:770][775]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B63EA7637-422D-873B-539B-9B8626B119C5%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=e77913444c60ac2867487ea227aec197%7Cc4317d4b1cea4f28802e3a8de0be4f65%7Cc786482b-db54-4f3c-834e-467a3f8abe43&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.22-04.08.58:815][315]LogHttp: Warning: 00000AA668E8C300: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B63EA7637-422D-873B-539B-9B8626B119C5%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=e77913444c60ac2867487ea227aec197%7Cc4317d4b1cea4f28802e3a8de0be4f65%7Cc786482b-db54-4f3c-834e-467a3f8abe43&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.22-04.08.58:815][315]LogHttp: Warning: 00000AA668E8C300: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.22-04.08.58:815][315]LogHttp: Warning: 00000AA668E8C300: libcurl info message cache 0 (Found bundle for host: 0xaa563960e70 [serially])
+[2024.03.22-04.08.58:815][315]LogHttp: Warning: 00000AA668E8C300: libcurl info message cache 1 (Re-using existing connection #201 with host datarouter.ol.epicgames.com)
+[2024.03.22-04.08.58:815][315]LogHttp: Warning: 00000AA668E8C300: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.221.151.99) port 443 (#201))
+[2024.03.22-04.08.58:815][315]LogHttp: Warning: 00000AA668E8C300: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.22-04.08.58:815][315]LogHttp: Warning: 00000AA668E8C300: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.22-04.08.58:815][315]LogHttp: Warning: 00000AA668E8C300: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.22-04.08.58:816][315]LogHttp: Warning: 00000AA668E8C300: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.22-04.08.58:816][315]LogHttp: Warning: 00000AA668E8C300: libcurl info message cache 7 (Closing connection 201)
+[2024.03.22-04.08.58:816][315]LogHttp: Warning: 00000AA668E8C300: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.22-04.08.58:816][315]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B63EA7637-422D-873B-539B-9B8626B119C5%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=e77913444c60ac2867487ea227aec197%7Cc4317d4b1cea4f28802e3a8de0be4f65%7Cc786482b-db54-4f3c-834e-467a3f8abe43&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.22-04.18.59:898][118]LogHttp: Warning: 00000AA668E81400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B63EA7637-422D-873B-539B-9B8626B119C5%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=e77913444c60ac2867487ea227aec197%7Cc4317d4b1cea4f28802e3a8de0be4f65%7Cc786482b-db54-4f3c-834e-467a3f8abe43&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.22-04.18.59:898][118]LogHttp: Warning: 00000AA668E81400: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.22-04.18.59:898][118]LogHttp: Warning: 00000AA668E81400: libcurl info message cache 0 (Found bundle for host: 0xaa563960f90 [serially])
+[2024.03.22-04.18.59:898][118]LogHttp: Warning: 00000AA668E81400: libcurl info message cache 1 (Re-using existing connection #205 with host datarouter.ol.epicgames.com)
+[2024.03.22-04.18.59:898][118]LogHttp: Warning: 00000AA668E81400: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (44.217.212.216) port 443 (#205))
+[2024.03.22-04.18.59:898][118]LogHttp: Warning: 00000AA668E81400: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.22-04.18.59:898][118]LogHttp: Warning: 00000AA668E81400: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.22-04.18.59:898][118]LogHttp: Warning: 00000AA668E81400: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.22-04.18.59:898][118]LogHttp: Warning: 00000AA668E81400: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.22-04.18.59:898][118]LogHttp: Warning: 00000AA668E81400: libcurl info message cache 7 (Closing connection 205)
+[2024.03.22-04.18.59:898][118]LogHttp: Warning: 00000AA668E81400: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.22-04.18.59:898][118]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B63EA7637-422D-873B-539B-9B8626B119C5%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=e77913444c60ac2867487ea227aec197%7Cc4317d4b1cea4f28802e3a8de0be4f65%7Cc786482b-db54-4f3c-834e-467a3f8abe43&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.22-04.23.59:947][ 18]LogHttp: Warning: 00000AA668E87300: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B63EA7637-422D-873B-539B-9B8626B119C5%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=e77913444c60ac2867487ea227aec197%7Cc4317d4b1cea4f28802e3a8de0be4f65%7Cc786482b-db54-4f3c-834e-467a3f8abe43&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.22-04.23.59:947][ 18]LogHttp: Warning: 00000AA668E87300: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.22-04.23.59:947][ 18]LogHttp: Warning: 00000AA668E87300: libcurl info message cache 0 (Found bundle for host: 0xaa563960630 [serially])
+[2024.03.22-04.23.59:947][ 18]LogHttp: Warning: 00000AA668E87300: libcurl info message cache 1 (Re-using existing connection #206 with host datarouter.ol.epicgames.com)
+[2024.03.22-04.23.59:947][ 18]LogHttp: Warning: 00000AA668E87300: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.203.21.186) port 443 (#206))
+[2024.03.22-04.23.59:947][ 18]LogHttp: Warning: 00000AA668E87300: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.22-04.23.59:947][ 18]LogHttp: Warning: 00000AA668E87300: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.22-04.23.59:947][ 18]LogHttp: Warning: 00000AA668E87300: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.22-04.23.59:947][ 18]LogHttp: Warning: 00000AA668E87300: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.22-04.23.59:947][ 18]LogHttp: Warning: 00000AA668E87300: libcurl info message cache 7 (Closing connection 206)
+[2024.03.22-04.23.59:947][ 18]LogHttp: Warning: 00000AA668E87300: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.22-04.23.59:947][ 18]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B63EA7637-422D-873B-539B-9B8626B119C5%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=e77913444c60ac2867487ea227aec197%7Cc4317d4b1cea4f28802e3a8de0be4f65%7Cc786482b-db54-4f3c-834e-467a3f8abe43&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.22-04.26.59:963][558]LogHttp: Warning: 00000AA668E89100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B63EA7637-422D-873B-539B-9B8626B119C5%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=e77913444c60ac2867487ea227aec197%7Cc4317d4b1cea4f28802e3a8de0be4f65%7Cc786482b-db54-4f3c-834e-467a3f8abe43&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.22-04.26.59:963][558]LogHttp: Warning: 00000AA668E89100: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.22-04.26.59:963][558]LogHttp: Warning: 00000AA668E89100: libcurl info message cache 0 (Found bundle for host: 0xaa5639600f0 [serially])
+[2024.03.22-04.26.59:963][558]LogHttp: Warning: 00000AA668E89100: libcurl info message cache 1 (Re-using existing connection #207 with host datarouter.ol.epicgames.com)
+[2024.03.22-04.26.59:963][558]LogHttp: Warning: 00000AA668E89100: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (44.193.96.37) port 443 (#207))
+[2024.03.22-04.26.59:963][558]LogHttp: Warning: 00000AA668E89100: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.22-04.26.59:963][558]LogHttp: Warning: 00000AA668E89100: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.22-04.26.59:963][558]LogHttp: Warning: 00000AA668E89100: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.22-04.26.59:963][558]LogHttp: Warning: 00000AA668E89100: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.22-04.26.59:963][558]LogHttp: Warning: 00000AA668E89100: libcurl info message cache 7 (Closing connection 207)
+[2024.03.22-04.26.59:963][558]LogHttp: Warning: 00000AA668E89100: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.22-04.26.59:963][558]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B63EA7637-422D-873B-539B-9B8626B119C5%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=e77913444c60ac2867487ea227aec197%7Cc4317d4b1cea4f28802e3a8de0be4f65%7Cc786482b-db54-4f3c-834e-467a3f8abe43&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.22-04.34.00:288][165]LogHttp: Warning: 00000AA602DE2300: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B63EA7637-422D-873B-539B-9B8626B119C5%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=e77913444c60ac2867487ea227aec197%7Cc4317d4b1cea4f28802e3a8de0be4f65%7Cc786482b-db54-4f3c-834e-467a3f8abe43&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.22-04.34.00:289][165]LogHttp: Warning: 00000AA602DE2300: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.22-04.34.00:289][165]LogHttp: Warning: 00000AA602DE2300: libcurl info message cache 0 (Found bundle for host: 0xaa563960690 [serially])
+[2024.03.22-04.34.00:289][165]LogHttp: Warning: 00000AA602DE2300: libcurl info message cache 1 (Re-using existing connection #209 with host datarouter.ol.epicgames.com)
+[2024.03.22-04.34.00:289][165]LogHttp: Warning: 00000AA602DE2300: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.193.13.71) port 443 (#209))
+[2024.03.22-04.34.00:289][165]LogHttp: Warning: 00000AA602DE2300: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.22-04.34.00:289][165]LogHttp: Warning: 00000AA602DE2300: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.22-04.34.00:289][165]LogHttp: Warning: 00000AA602DE2300: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.22-04.34.00:289][165]LogHttp: Warning: 00000AA602DE2300: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.22-04.34.00:289][165]LogHttp: Warning: 00000AA602DE2300: libcurl info message cache 7 (Closing connection 209)
+[2024.03.22-04.34.00:289][165]LogHttp: Warning: 00000AA602DE2300: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.22-04.34.00:289][165]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B63EA7637-422D-873B-539B-9B8626B119C5%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=e77913444c60ac2867487ea227aec197%7Cc4317d4b1cea4f28802e3a8de0be4f65%7Cc786482b-db54-4f3c-834e-467a3f8abe43&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.22-04.36.44:982][658]BlueprintLog: New page: Compile pauseScene
+[2024.03.22-04.36.45:004][658]LogBlueprint: Warning: [AssetLog] C:\Users\raiab\STUFF\PENN\SPRING2024\CIS5680\GAME\Midwest_Mayhem\Content\menu\pauseScene.uasset: [Compiler] On Clicked (power-up1_3)  does not have a valid matching component!
+[2024.03.22-04.36.45:137][658]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2024.03.22-04.36.53:146][862]LogInterchangeEngine: [Pending] Importing
+[2024.03.22-04.36.53:146][862]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/raiab/...IS5680/GAME/imggas-v0.png]
+[2024.03.22-04.36.53:146][862]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.03.22-04.36.53:187][863]LogInterchangeEngine: [Success] Import Done
+[2024.03.22-04.36.53:187][863]LogInterchangeEngine: [Pending] Importing
+[2024.03.22-04.36.53:187][863]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/raiab/...IS5680/GAME/imghighbeams-v0.png]
+[2024.03.22-04.36.53:187][863]LogTexture: Display: Building textures: /Game/menu/img/gas-v0.gas-v0 (BGRA8, 906x892 x1x1x1) (Required Memory Estimate: 23.697723 MB), EncodeSpeed: Fast
+[2024.03.22-04.36.53:205][863]LogInterchangeEngine: [Success] Import Done
+[2024.03.22-04.36.53:222][863]LogTexture: Display: Building textures: /Game/menu/img/highbeams-v0.highbeams-v0 (BGRA8, 902x905 x1x1x1) (Required Memory Estimate: 23.936306 MB), EncodeSpeed: Fast
+[2024.03.22-04.36.53:241][863]LogInterchangeEngine: [Success] Import Done
+[2024.03.22-04.36.53:245][863]LogInterchangeEngine: [Success] Import Done
+[2024.03.22-04.37.23:015][149]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.03.22-04.37.23:018][149]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Gameplay/MainLevel' took 0.033
+[2024.03.22-04.37.23:018][149]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/menu/img/gas-v0] ([1] browsable assets)...
+[2024.03.22-04.37.23:021][149]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/menu/img/gas-v0.gas-v0]
+[2024.03.22-04.37.23:021][149]OBJ SavePackage: Finished generating thumbnails for package [/Game/menu/img/gas-v0]
+[2024.03.22-04.37.23:024][149]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/menu/img/gas-v0_Auto3
+[2024.03.22-04.37.23:024][149]LogSavePackage: Moving '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Saved/gas-v0_Auto3884AAD75435EF8094C7833A21CC61C60.tmp' to '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Saved/Autosaves/Game/menu/img/gas-v0_Auto3.uasset'
+[2024.03.22-04.37.23:025][149]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/menu/img/highbeams-v0] ([1] browsable assets)...
+[2024.03.22-04.37.23:028][149]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/menu/img/highbeams-v0.highbeams-v0]
+[2024.03.22-04.37.23:028][149]OBJ SavePackage: Finished generating thumbnails for package [/Game/menu/img/highbeams-v0]
+[2024.03.22-04.37.23:031][149]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/menu/img/highbeams-v0_Auto3
+[2024.03.22-04.37.23:031][149]LogSavePackage: Moving '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Saved/highbeams-v0_Auto30141A21544728EDBD2F0BBA4319D9F3D.tmp' to '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Saved/Autosaves/Game/menu/img/highbeams-v0_Auto3.uasset'
+[2024.03.22-04.37.23:033][149]LogFileHelpers: Auto-saving content packages took 0.015
+[2024.03.22-04.38.19:577][380]LogInterchangeEngine: [Pending] Importing
+[2024.03.22-04.38.19:577][380]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/raiab/...IS5680/GAME/imggas-v1.png]
+[2024.03.22-04.38.19:594][381]LogTexture: Display: Building textures: /Game/menu/img/gas-v1.gas-v1 (BGRA8, 785x783 x1x1x1) (Required Memory Estimate: 18.038708 MB), EncodeSpeed: Fast
+[2024.03.22-04.38.19:625][381]LogInterchangeEngine: [Success] Import Done
+[2024.03.22-04.38.19:638][381]LogInterchangeEngine: [Success] Import Done
+[2024.03.22-04.38.41:390][561]BlueprintLog: New page: Compile pauseScene
+[2024.03.22-04.38.41:395][561]LogBlueprint: Warning: [AssetLog] C:\Users\raiab\STUFF\PENN\SPRING2024\CIS5680\GAME\Midwest_Mayhem\Content\menu\pauseScene.uasset: [Compiler] On Clicked (power-up1_3)  does not have a valid matching component!
+[2024.03.22-04.38.41:435][561]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.03.22-04.38.44:113][691]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.22-04.38.44:204][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/menu/pauseScene" FILE="../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Content/menu/pauseScene.uasset" SILENT=true
+[2024.03.22-04.38.44:220][691]LogSavePackage: Moving output files for package: /Game/menu/pauseScene
+[2024.03.22-04.38.44:220][691]LogSavePackage: Moving '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Saved/pauseScene970EB72B4E2C2AFD25A013BCC2A51C11.tmp' to '../../../../../../Users/raiab/STUFF/PENN/SPRING2024/CIS5680/GAME/Midwest_Mayhem/Content/menu/pauseScene.uasset'
+[2024.03.22-04.38.44:234][691]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 12.2 sec)
+[2024.03.22-04.38.44:242][691]AssetCheck: New page: Asset Save: pauseScene
+[2024.03.22-04.38.44:242][691]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/menu/pauseScene.pauseScene
